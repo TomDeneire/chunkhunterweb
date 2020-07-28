@@ -14,27 +14,30 @@
     <div id="input">
         <h2>Input</h2>
         <br>
-        <textarea id="inputText" name="inputText" rows="10" cols="150">
-        </textarea>
+        <textarea id="inputText" name="inputText" rows="10" cols="150"></textarea>
         <br><br>
         <button onclick="analyze()">Analyze</button>
+        <button
+            onclick="getElementById('inputText').value = '';getElementById('results').style.visibility = 'hidden'">Clear</button>
     </div>
 
     <p>
-    <h2>Statistics</h2>
-    <div id="stats">
+    <div id="results" style="visibility:hidden">
+        <h2>Statistics</h2>
+        <div id="stats">
+        </div>
+        <h2>Chunks</h2>
+        <h3>- Length (descending)</h3>
+        <div id="chunks">
+        </div>
+        <h3>- Frequency (descending)</h3>
+        <div id="chunksfreq">
+        </div>
+        <h2>Result</h2>
+        <div id="resultText">
+        </div>
+        </p>
     </div>
-    <h2>Chunks</h2>
-    <h3>Length (descending)</h3>
-    <div id="chunks">
-    </div>
-    <h3>Frequency (descending)</h3>
-    <div id="chunksfreq">
-    </div>
-    <h2>Result</h2>
-    <div id="resultText">
-    </div>
-    </p>
 </body>
 
 </html>

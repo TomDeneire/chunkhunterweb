@@ -58,4 +58,5 @@ function analyze() {
     document.getElementById("chunks").innerHTML = chunksLength;
     document.getElementById("chunksfreq").innerHTML = chunksFreq;
     document.getElementById("stats").innerHTML = `Frequency = ${chunkWords} chunk words / ${textLength} total words = ${chunkFrequency}%. Text checked against ${chunksTotal} registered combinations`;
+    document.getElementById("results").style.visibility = 'visible';
 };
