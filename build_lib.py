@@ -4,6 +4,9 @@ with open('lib.js', 'w') as lib:
         for chunk in chunks:
             chunk = chunk.lower()
             chunk = chunk.strip()
+            chars = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
+            for char in chars:
+                chunk = chunk.replace(char, '')
             if chunk not in chunks_db:
                 chunks_db.append(" " + chunk)
     # reverse sort to find longer chunks first
@@ -12,7 +15,7 @@ with open('lib.js', 'w') as lib:
         return len(e)
     chunks_db.sort(reverse=True, key=mySort)
     js = """
-    function chunks_lib() {
+    function chunksDB() {
         let chunks = """ + str(chunks_db) + """;
         return chunks;
     }
