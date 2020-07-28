@@ -4,13 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Chunk hunter web</title>
+    <title>Chunk Hunter</title>
     <script src="lib.js"></script>
     <script src="chunks.js"></script>
 
 <body>
 
-    <h1>Chunk hunter</h1>
+    <h1>Chunk Hunter</h1>
+    <p>© Bertin Deneire - Tom Deneire (2020)</p>
+    <p>Chunk Hunter scans text files for a set of predefined chunks.</p>
     <div id="input">
         <h2>Input</h2>
         <br>
@@ -27,6 +29,7 @@
         <div id="stats">
         </div>
         <h2>Chunks</h2>
+        <button onclick="download('stats.csv',makeCSV())" ;>Download list</button>
         <h3>- Length (descending)</h3>
         <div id="chunks">
         </div>
