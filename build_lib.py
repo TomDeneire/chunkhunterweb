@@ -7,8 +7,9 @@ with open('lib.js', 'w') as lib:
             chars = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
             for char in chars:
                 chunk = chunk.replace(char, '')
+            chunk = " " + chunk
             if chunk not in chunks_db:
-                chunks_db.append(" " + chunk)
+                chunks_db.append(chunk)
     # reverse sort to find longer chunks first
 
     def mySort(e):
