@@ -7,7 +7,10 @@ with open('lib.js', 'w') as lib:
             if chunk not in chunks_db:
                 chunks_db.append(" " + chunk)
     # reverse sort to find longer chunks first
-    chunks_db.sort(reverse=True)
+
+    def mySort(e):
+        return len(e)
+    chunks_db.sort(reverse=True, key=mySort)
     js = """
     function chunks_lib() {
         let chunks = """ + str(chunks_db) + """;
