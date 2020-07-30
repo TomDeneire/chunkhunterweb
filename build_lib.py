@@ -4,8 +4,7 @@ with open('lib.js', 'w') as lib:
         for chunk in chunks:
             chunk = chunk.lower()
             chunk = chunk.strip()
-            # not . because of i.e. or e.g. etcetera!
-            chars = '!"#$%&\'()*+,-/:;<=>?@[\\]^_`{|}~'
+            chars = '!"#$%&()*+,-/.:;<=>?@[\\]^_`{|}~'
             for char in chars:
                 chunk = chunk.replace(char, '')
             chunk = " " + chunk
