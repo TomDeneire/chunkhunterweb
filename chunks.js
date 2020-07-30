@@ -76,6 +76,6 @@ function analyze() {
     document.getElementById("resultText").innerHTML = "<tt>" + input + "</tt>";
     document.getElementById("chunks").innerHTML = chunksLength;
     document.getElementById("chunksfreq").innerHTML = chunksFreq;
-    document.getElementById("stats").innerHTML = `Frequency = ${chunkWords} chunk words / ${textLength} total words = ${chunkFrequency}%. Text checked against ${chunksTotal} registered combinations`;
+    document.getElementById("stats").innerHTML = `<ul><li>Frequency = ${chunkWords} chunk words / ${textLength} total words = ${chunkFrequency}%.</li><li>Text checked against ${chunksTotal} registered combinations</li></ul>`;
     document.getElementById("results").style.visibility = 'visible';
 };

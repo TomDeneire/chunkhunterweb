@@ -5,17 +5,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Chunk Hunter</title>
+    <link rel="stylesheet" type="text/css" href="chunks.css">
     <script src="lib.js"></script>
     <script src="chunks.js"></script>
 
 <body>
 
     <h1>Chunk Hunter</h1>
-    <p>© Bertin Deneire - Tom Deneire (2020)</p>
-    <p>Chunk Hunter scans text files for a set of predefined chunks.</p>
+    <p>© Bertin Deneire - Tom Deneire (2020)
+        <br>Chunk Hunter scans text files for a set of predefined chunks.</p>
     <div id="input">
         <h2>Input</h2>
-        <br>
         <textarea id="inputText" name="inputText" rows="10" cols="150"></textarea>
         <br><br>
         <button onclick="analyze()">Analyze</button>
@@ -28,14 +28,16 @@
         <h2>Statistics</h2>
         <div id="stats">
         </div>
+        <p></p>
         <h2>Chunks</h2>
-        <button onclick="download('stats.csv',makeCSV())" ;>Download list</button>
-        <h3>- Length (descending)</h3>
+        <h3>1. Length (descending)</h3>
         <div id="chunks">
         </div>
-        <h3>- Frequency (descending)</h3>
+        <h3>2. Frequency (descending)</h3>
         <div id="chunksfreq">
         </div>
+        <button onclick="download('stats.csv',makeCSV())" ;>Download list</button>
+        <p></p>
         <h2>Result</h2>
         <div id="resultText">
         </div>
