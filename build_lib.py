@@ -7,7 +7,9 @@ with open('lib.js', 'w') as lib:
             chars = '!"#$%&()*+,-/.:;<=>?@[\\]^_`{|}~'
             for char in chars:
                 chunk = chunk.replace(char, '')
-            chunk = " " + chunk
+            # all punctuation will be turned into space
+            # and account for "to me " (chunk) vs "to meet" (not chunk)
+            chunk = " " + chunk + " "
             if chunk not in chunks_db:
                 chunks_db.append(chunk)
     # reverse sort to find longer chunks first

@@ -1,32 +1,37 @@
-var chunksCSV = "chunk, length, frequency\n"
-
 function download(filename, text) {
     // https://ourcodeworld.com/articles/read/189/how-to-create-a-file-and-generate-a-download-with-javascript-in-the-browser-without-a-server
     var element = document.createElement('a');
     element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
     element.setAttribute('download', filename);
-
     element.style.display = 'none';
     document.body.appendChild(element);
-
     element.click();
-
     document.body.removeChild(element);
 }
+
+var chunksCSV = "chunk, length, frequency\n"
 
 function makeCSV() {
     return chunksCSV;
 }
 
-function cleanText(text) {
-    text = text.toLowerCase();
-    return text;
+function cleanText(input) {
+    function remove(value) {
+        var re = new RegExp(value, 'g');
+        input = input.replace(re, ' ')
+    };
+    ['!', '"', '#', '$', '%', '&', '\\(', '\\)', '\\*', ',',
+        '\\+', '-', '\\/', '\\.', ':', ';', '<', '=', '>',
+        '\\?', '@', '\\[', '\\]', '^', '_', '`', '\\{', '\\|',
+        '\\}', '~', '\\s\\s'].forEach(remove);
+    input = input.toLowerCase();
+    return input;
 }
 
 function analyze() {
     // PROCESS INPUT
-    // add space to recognize chunk at start of text)
-    var input = " " + cleanText(document.getElementById("inputText").value);
+    // Add space to recognize chunk at start/end of text
+    var input = " " + cleanText(document.getElementById("inputText").value) + " ";
     // MARK CHUNKS, CALCULATE STATS
     var chunks = {};
     var freqMax = 0;
@@ -34,15 +39,17 @@ function analyze() {
     0;
     function processChunk(value, _, _) {
         chunksTotal = chunksTotal + 1;
-        var re = new RegExp(value, 'g');
-        // Replace value and keep case (= much slower)
-        // var re = new RegExp(value, 'gi');
-        input = input.replace(re, "<mark>" + value + "</mark>");
-        var count = (input.match(re) || []).length;
-        if (count != 0) {
+        if (input.includes(value)) {
+            var re = new RegExp(value, 'g');
+            // Replace value and keep case (= much slower)
+            // var re = new RegExp(value, 'gi');
+            input = input.replace(re, `<mark>${value}</mark>`);
+            var count = (input.match(re) || []).length;
             var chunk = value.trim();
             chunks[chunk] = count;
-            if (count > freqMax) { freqMax = count };
+            if (count > freqMax) {
+                freqMax = count
+            };
         }
     };
     chunksDB().forEach(processChunk);
@@ -52,8 +59,7 @@ function analyze() {
         chunksCSV = chunksCSV + key + "," + key.trim().length + "," + chunks[key] + "\n";
     };
     var textLength = input.split(' ').length;
-    var chunkFrequency = chunkWords / textLength * 100;
-    chunkFrequency = Math.round(chunkFrequency + Number.EPSILON);
+    var chunkFrequency = Math.round((chunkWords / textLength * 100) + Number.EPSILON);
     // SORT CHUNKS (LENGTH)
     var chunksLength = "<tt><ul>";
     var keys = Object.keys(chunks);
