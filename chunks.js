@@ -55,27 +55,27 @@ function analyze() {
     var chunkFrequency = chunkWords / textLength * 100;
     chunkFrequency = Math.round(chunkFrequency + Number.EPSILON);
     // SORT CHUNKS (LENGTH)
-    var chunksLength = "<ul>";
+    var chunksLength = "<tt><ul>";
     var keys = Object.keys(chunks);
     keys.sort(function (a, b) { return b - a; });
     for (var i = 0; i < keys.length; i++) {
         chunksLength = chunksLength + "<li>" + keys[i] + " (" + keys[i].length + ")</li>";
     }
-    chunksLength = chunksLength + "</ul>"
+    chunksLength = chunksLength + "</ul></tt>"
     // SORT CHUNKS (FREQUENCY)
-    var chunksFreq = "<ul>";
+    var chunksFreq = "<tt><ul>";
     for (var i = freqMax; i > 0; i--) {
         for (let key in chunks) {
             if (chunks[key] == i) {
                 chunksFreq = chunksFreq + "<li>" + key + " (" + chunks[key] + ")</li>";
             }
         };
-
     }
+    chunksFreq = chunksFreq + "</ul></tt>"
     // SHOW RESULTS
     document.getElementById("resultText").innerHTML = "<tt>" + input + "</tt>";
     document.getElementById("chunks").innerHTML = chunksLength;
     document.getElementById("chunksfreq").innerHTML = chunksFreq;
-    document.getElementById("stats").innerHTML = `<ul><li>Frequency = ${chunkWords} chunk words / ${textLength} total words = ${chunkFrequency}%.</li><li>Text checked against ${chunksTotal} registered combinations</li></ul>`;
+    document.getElementById("stats").innerHTML = `<tt><ul><li>Frequency = ${chunkWords} chunk words / ${textLength} total words = ${chunkFrequency}%.</li><li>Text checked against ${chunksTotal} registered combinations</li></ul></tt>`;
     document.getElementById("results").style.visibility = 'visible';
 };
