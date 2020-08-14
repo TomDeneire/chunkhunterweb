@@ -26,7 +26,7 @@ a bad back
 A bad beginning makes a bad ending
 A bad corn promise is better than a good lawsuit
 a bad egg
-A bad excuse is better than none
+A bad excuse
 A bad excuse is better than none
 a bad habit
 a bad loser
@@ -134,6 +134,7 @@ a better service
 A better study would examine a large
 a better understanding of		
 a better world
+a bewildering array
 a bible belt 
 a big ambition
 a big bag
@@ -184,7 +185,7 @@ a big debate
 a big decision
 a big decision
 a big difference
-a big difference
+a big difference between
 a big difference to
 a big difference with
 a big drinker
@@ -275,6 +276,7 @@ a bit of cheese
 a bit of dark horse
 a bit of equipment 
 a bit of kit
+a bit of kit
 a bit of mystery
 a bit of rough and tough 
 a bit of the
@@ -338,6 +340,7 @@ A blow on
 a blow under The belt
 a blueprint for
 a blustery day
+a board meeting
 a boat burial
 A boat sits on the surface of water
 a bobby on the beat 
@@ -577,7 +580,6 @@ a centre for research
 a ceremonial sceptre
 A certain kind of creature
 a certain place
-a certificate which gives the person holding it
 A chain is only as strong as its weakest link
 A chain is only as strong as its weakest link
 a chain is only as strong as its weakest link
@@ -606,6 +608,7 @@ a character collection
 a character role
 a charge against
 A charge could be made of obstructing a police
+a charm offensive
 a chattering bird builds no nest
 a cheap trick
 A check for 
@@ -1005,7 +1008,7 @@ a desk job
 a desk-jockey
 a destabilising disease
 A detailed explanation
-A detailed explanation
+A detailed explanation for
 a detention centre
 a detention centre
 a détournement of the slogan 
@@ -1163,6 +1166,7 @@ a Drop in the bucket
 a drop in the ocean
 a drop in the ocean
 a drop of blood
+a drop of brandy 
 a drop of oil 
 a drop of vinegar
 a drop of water 
@@ -1207,6 +1211,7 @@ A fall in
 a false confession
 A false face
 a false friend and a shadow attend only when the sun shines
+a false sense of security
 a false statement
 A falsified police line up
 A familiar favourite
@@ -1286,7 +1291,7 @@ a firearm or explosive device
 a firearms offence
 a firearms offence
 A firm believer in
-A firm believer in 
+A firm believer in the
 a firm favourite
 a firm favourite
 a firm favourite
@@ -1354,13 +1359,13 @@ a fool and his money are soon parted
 A fool at forty is a fool indeed
 A fool may ask more questions in an hour than a wise man can answer in seven years
 A fool may throw a stone into a well which a hundred wise men
-A fool s paradise is a false sense of happiness or success
 a fool's paradise
 a fool's paradise
 a fool's paradise
 A fool's paradise
 A fool's tongue runs before his wit
 a fool’s paradise
+A fools’ paradise 
 a foot in the door
 A foot in the door
 a football fanzine
@@ -1499,6 +1504,7 @@ A glitzy dinner
 A glorious morning
 a glug of wine
 A goat thief came along and they put him in jail
+a gold nugget
 a golden cage
 A golden glow
 A golden glow
@@ -2430,6 +2436,7 @@ A modest cottage
 a moment in time
 a moment in time
 a moment in time
+a moment’s rest
 a momentous event
 a momentous event in
 A momentous message
@@ -2704,6 +2711,7 @@ a person who acts as public
 A person who changes their beliefs and principles to stay popular with people
 A person who is always available; ready, willing, and able to do what needs to
 a person who was not protected by the law
+a person whom 
 A person with only one talent or area of expertise
 a pessimist is someone who builds dungeons in the air
 a pet peeve
@@ -2739,6 +2747,7 @@ a piece of bread
 a piece of cake
 a piece of cake
 a piece of information 
+a piece of kit
 a piece of land 
 a piece of my mind
 a piece of paper
@@ -3033,6 +3042,7 @@ A rich person is seldom in want of a friend
 a riddle is only a riddle until you have solved it
 a riddle wrapped up in an enigma
 a rider's licence
+a right mess
 a right pair
 a right to receive interest or dividends 
 A rightful reward 
@@ -3557,6 +3567,7 @@ a standard system
 a standard system 
 a star from screen and stage 
 A starry sky
+a stash of cash
 a stash of cash
 a stash of envelopes 
 a state of bliss
@@ -4195,7 +4206,6 @@ A Young Turk is a young person who is rebellious and
 a zero tolerance
 a, b or c
 A, B, C, D, E,
-A.M.
 A1 at Lloyds
 Ab initio
 Abandon all hope ye who enter here
@@ -4305,6 +4315,7 @@ About turn
 about turn
 about what
 About whom
+above all
 Above all
 above all
 above all
@@ -4329,6 +4340,7 @@ above suspicion
 above the clouds
 Above The Law
 above the law
+above the rest
 above the rest
 Above The Salt
 Above Water
@@ -4553,6 +4565,7 @@ according to
 according to
 according to
 According to 
+According to 
 according to 
 According to a definition
 According to a definition provided by
@@ -4577,6 +4590,7 @@ according to the wishes set out in the will
 according to the wishes set out in the will
 according to whether
 according to whether
+accordingly
 Accordingly a word used in legal documents which means
 Account an account in a set of books recording the extra
 Account executive
@@ -4731,10 +4745,12 @@ across the French border
 across the German border
 across the Indian Ocean
 across the land
+across the land
 across the ocean
 across the ocean
 Across The Pond
 Across the river
+across the road
 across the road
 across the road
 ACROSS the sea
@@ -4873,6 +4889,7 @@ Actual bodily harm hurting another person but less severely than would
 Actual loss an insurance term which means that the insured item
 actually so
 Actually so 
+Actually, I think you’re right
 Actually, you were right
 Actuary an expert on pension scheme assets and liabilities
 actuary works out whether enough money is being
@@ -5004,6 +5021,7 @@ additional friction
 additional friction
 additional information
 Additional voluntary
+additionally so
 address an event
 Address an issue
 address and occupation
@@ -5028,6 +5046,7 @@ adhere to the rules
 adherence to and
 adherence to the path
 Adjacent neighbours amazing array
+adjacent to
 adjacent to
 Adjectival use
 Adjective + Noun
@@ -5115,6 +5134,7 @@ adverb collocations
 adverb combinations contain either alliteration or assonance
 adverb or adjective
 Adverbial elements indicating causality
+adverbial expressions 
 adverbial particle
 adverbial particle
 Adverbial use
@@ -5212,10 +5232,12 @@ after all had been said and done
 after all has been said and done
 after all has been said and done
 after all has been said and done
+after all has been said and done
 after all I've been through
 after all the
 after all they've been through
 after all we've been through
+after all what
 after all,
 After breakfast he rang Mary up
 after concluding
@@ -5245,6 +5267,7 @@ after the passage of a stated time
 after the person has done something good
 after the revelation of the
 after the revelation of the Quran
+after the storm
 After the watershed
 After the watershed
 After us the deluge
@@ -5517,6 +5540,7 @@ Alarmed by
 Alas, poor Yorick 
 Alba gu bràth
 Albatross Around One's Neck
+albeit
 album by
 album by The
 alcohol abuse
@@ -5732,6 +5756,7 @@ all I've got
 all in a day's work
 all in a day's work
 All In A Day's Work 
+all in all
 All in all
 All in all
 All in all
@@ -5800,6 +5825,7 @@ All night long
 all night long
 all night long
 all nothing
+all of a sudden
 All of a sudden
 All of a sudden
 all of a sudden
@@ -5862,6 +5888,7 @@ all over the
 All Over The Board
 all over The glove
 all over the land
+all over the land
 All Over The Map
 all over the place
 All Over The Place
@@ -5885,6 +5912,7 @@ all over town
 all over town
 All over town
 All over town
+all over town
 all over town
 all over us
 all over you
@@ -6027,6 +6055,7 @@ all things come to him who waits
 All things come to those who wait
 All things come to those who wait
 All things come to those who wait
+all things considered
 all things considered
 all things considered
 all things considered
@@ -6183,6 +6212,7 @@ almost always
 almost always so
 almost always the case
 Almost any
+almost anywhere
 Almost certainly
 almost certainly so
 almost dead
@@ -6211,6 +6241,7 @@ along the track
 along the way
 along with
 along with all
+alongside 
 alongside each other
 Alphabetical order
 Alphabetical order
@@ -6263,6 +6294,7 @@ Although exclusion of did not these results should be interpreted with caution
 Although extensive research has been carried out on 
 although here too The distinction is often 
 although most of The time 
+although not before
 although one could consider Their association by progressive 
 although people speak of The vehicle losing its lorry load
 Although sound plays important role in collocations of any language
@@ -6270,8 +6302,10 @@ although such cases may be rather coincidental
 Although the heater was standard
 Although These elements occur in any language
 although They still start with The same letter
+although this may be true
 Although we hope the explanations will prompt lawyers 
 altogether meaningless
+altogether now
 Always add value
 always ask yourself if what you’re getting is worth what you’re losing
 always assuming that 
@@ -6313,7 +6347,7 @@ Amalgamation two or more companies combining
 amass panic
 Amateur Hour
 Amazed at
-amazed at
+amazed at a
 amazed at the
 Amazed by
 amazing array
@@ -6353,7 +6387,6 @@ amazingly modern
 Amber Gambler
 Amber Nectar
 Amber nectar
-ambiguity
 Ambiguity capability of more than one meaning
 ambitious mission
 ambivalent attitude
@@ -6380,11 +6413,14 @@ American War
 American writer and entrepreneur
 Americans' ideals
 AMID all
+amid suspicion
 amid The splits
 ammunition and armour
 ammunition and armour
 Amnesty not punishing a person for an offence they have
 among all
+among friends
+among many
 among many
 among many
 among men and women 
@@ -6431,6 +6467,7 @@ An Act of God
 an act of primal lust evokes disgust
 an act of repentance is s step on the road to acceptance
 an act of terrorism
+an act of the gods
 an act of vandalism
 an act of violence
 an act which is illegal
@@ -6824,9 +6861,13 @@ an oddball
 an offence
 An offer he can't refuse
 an offer he can’t refuse
+an offer he can’t refuse 
+an offer he couldn’t refuse
 an offer he couldn’t refuse
 an offer I can’t refuse
+an offer I can’t refuse
 an offer I couldn't refuse
+an offer I couldn’t refuse
 an offer I couldn’t refuse
 an offer I couldn’t refuse
 an offer I just couldn't refuse
@@ -6994,6 +7035,7 @@ and all the rest
 and all the trimmings
 and all what comes with it
 and almost certainly 
+and also 
 and also vice versa 
 And although collocations will always remain something of 
 and an accident was caused on the face of it by
@@ -7009,7 +7051,6 @@ and assonance combinations like
 and avoid the bankruptcy of the debtor
 and besides
 and besides,
-and brandy 
 and by what
 and by which
 and by whom
@@ -7018,20 +7059,13 @@ and carry on
 and case usual However
 And Change
 and children when a marriage has
-and combined 
 and combined in cases like 
-and comfort
+and combined with
 and communication are more powerful than wars and fighting
 and concepts rather than to give strict legal definitions
 And consequently
 And conversely
-And Counting
-and daring
-and death
-and decide to 
-and devious interpretations is the equivalent of trying to pick
-and die
-and discovery
+and devious interpretations is 
 and distributed by the Buddhist Publication Society (BPS) in Sri Lanka
 and drags in the wind into its narrow shed
 and encounter with
@@ -7052,6 +7086,7 @@ And forever after
 and further, after subsiding of thought concentration and discursive thinking, and, 
 and further, after the doing away of rapture, he dwells in equanimity, mindful, with clear
 and furthermore
+and furthermore
 and goes on
 and going at it with unrelenting vigour, hanging on hard, with a determination that is the case when
 and guarantees that they will be
@@ -7063,11 +7098,10 @@ and he’s sure to
 and he’s sure to appear
 and head to school
 and hearing child welfare cases
-And His Mother
+and henceforth
 and hoist my pack
 and hold, the very idea of self is just such a transitory perception
 and hone the mind, through concentration and discipline
-and horses
 and how about
 And how about
 and how about
@@ -7088,7 +7122,7 @@ and if so,
 And if you want to see them too
 And if you’d like to improve your English skills even more 
 and in a short time
-and in every sort of discourse or register killed The king
+and in every sort of discourse or register 
 and in The face of this congregation
 and in The fear of God
 and intensity
@@ -7096,6 +7130,7 @@ and is commended of Saint Paul to be honourable among all men
 and it describes
 and it has been
 and it is an international system for paying by credit
+and it worked
 and it works
 and it’s total madness
 and keep her in sickness and in health
@@ -7106,17 +7141,20 @@ and later a song and a book
 and later tried as a spy
 and least of all
 and least of all
+and least of all 
+and likewise
 and likewise
 and likewise
 and made my way
-And me
 and me too
+and meanwhile 
 and more importantly
 and more like that
 and more of that
 and more of this 
 and more similar
 and more so
+and moreover
 and most sellers had been glad 
 and must be a barrister
 and neither is 
@@ -7142,8 +7180,8 @@ and of deep feeling
 and often applicable within one and The same word
 and often containing some kind of climax
 and on certain licences for activities
-and other
 and other dope
+and other kinds of
 and others
 and otherwise
 and pretty little fishing village
@@ -7161,6 +7199,7 @@ and serve him
 and services
 and share capital
 and shows that even in
+And so do I
 And So Forth
 and so forth
 and so forth 
@@ -7168,9 +7207,9 @@ And so her life passed by
 and so it happened
 and so it happened
 and so much more
-And So On
 and so on
 and so on
+And So On, and so on
 and so say all of us
 And so say all of us
 and so say all of us
@@ -7185,6 +7224,7 @@ and some men have mediocrity
 and some other collocations involving adverbs is simply endless as it is merely The choice of The writer to choose one or The other combinations
 And sometimes we are merely the lesson
 and soon a f fog was about
+and still
 and sucklings
 and sufficient sureties with him
 and sure enough
@@ -7222,7 +7262,7 @@ and the rest is history
 and then again
 And then I suddenly saw her
 and then signs as well to verify the signature's
-And Then Some
+And Then there were none
 And there s something about you
 And therefore
 and therein the lies the answer
@@ -7230,9 +7270,11 @@ and they lived happily ever after
 and things paid for
 And this one on Boris Johnson's appointment as Foreign Secretary
 and three for society
+and thus
 And thus
 and to avoid fornication
 and to John Wilkes Booth
+and to know that 
 and to pay an agreed rate of interest on the debt
 and to The praise of his holy Name
 and to think of
@@ -7278,6 +7320,7 @@ and with it
 and woe betide
 and would you believe
 and wrong
+and yet
 and yet
 And yet
 And yet
@@ -7371,6 +7414,7 @@ another day, another dollar
 Another e ample of what is meant by is
 another example of journalese
 another helping another portion
+another key point
 Another key thing to remember
 Another kind of
 Another major criticism of this study, made by He, is that
@@ -7597,6 +7641,7 @@ appallingly impressive
 apparent pain
 apparent pain
 apparently not, 
+Apparently so
 Appeal asking a court to overturn a lower court's decision
 appeal for help
 appeal for peace
@@ -7904,6 +7949,7 @@ Are you sure it's all right
 Are you sure this place is always open
 are you taking the mickey
 Are you talking about us
+Are you telling that
 Are you thinking what we're thinking
 Are you thirsty
 Are you with me so far 
@@ -7978,6 +8024,7 @@ Around the corner
 Around the corner
 around the corner
 Around the sun
+around the town
 around the town 
 around the UK
 around the world
@@ -8135,6 +8182,7 @@ as a gift
 as a last resort
 as a matter of 
 as a matter of 
+as a matter of fact
 As a matter of fact
 As a matter of fact
 As a matter of fact
@@ -8156,6 +8204,7 @@ as a present
 as a pretence
 As a punishment
 as a punishment for 
+as a result
 As a result
 as a Result
 as a result
@@ -8166,7 +8215,7 @@ as a result of
 as a result of
 as a result of
 as a result of
-as a result of
+as a result of the
 As a result of this,
 as a rhyming pattern
 as a rule
@@ -8210,6 +8259,7 @@ As an example of
 As an example of 
 as an excuse
 as an excuse
+as an illustration
 as an upturned bowl empties of water, so falsehood empties a man of his merit
 as assonance
 as assonance
@@ -8250,6 +8300,7 @@ As busy as a one-armed paperhanger
 as can be
 as can be
 As can be expected
+as can be seen
 as can be seen
 as can be seen
 as careful as you can be
@@ -8323,6 +8374,9 @@ as far as I recall
 as far as I remember
 As far as I remember
 As far as I’m concerned
+As far as I’m concerned
+As far as I’m concerned
+As far as I’m concerned
 As far as is concerned,
 as far as known
 as far as the eye can see
@@ -8384,7 +8438,9 @@ As happy as a sandboy
 As happy as Larry
 as hard as you can
 as hard as you can
+as has been
 as has been 
+as has been noted
 as has been proved
 as has been proved
 as has been said before
@@ -8423,6 +8479,7 @@ as I said before
 as I said before
 as I said before
 As I said I’ll check with my boss and get in touch
+As I see it
 as I see it
 as I speak
 as I stepped
@@ -8479,6 +8536,7 @@ As it happens
 as it happens
 as it happens
 as it happens
+as it has been
 as it is
 as it is
 as it is
@@ -8507,6 +8565,7 @@ As like as two peas
 as little as
 as little as you like
 as little as you like 
+as long as
 As long as
 as long as
 as long as
@@ -8551,6 +8610,7 @@ as might have been expected
 as might have been expected
 as mischievous as a monkey
 as mischievous as a monkey 
+as much as
 as much as possible 
 as much as you like
 as nature dictates
@@ -8666,6 +8726,7 @@ as sergeant major of c squadron
 as she said
 as short answer
 as should be the case
+as shown above
 as simple as that
 as simple as that
 as slogans
@@ -8673,6 +8734,7 @@ as slow as a snail
 as slow as a snail 
 As snug as a bug in a rug
 As snug as a bug in a rug
+as soon as
 as soon as
 as soon as
 as soon as a man is born, he begins to die
@@ -8689,6 +8751,7 @@ as spite sparks and then crackles, hate bites like a hungry jackal
 as stated by
 as stated in
 As straight as a die
+as such
 as such
 As sure as eggs is eggs
 as sure as sure can b
@@ -8758,6 +8821,7 @@ As though
 as though it were
 as though nothing had happened
 as though something
+as time goes by
 As time goes by
 As time goes by
 as time goes by
@@ -8788,6 +8852,7 @@ as we all knew
 as we all know
 as we all know
 as we all know
+as we all know
 as we all know too well
 as we approached
 as we continued
@@ -8806,6 +8871,7 @@ as we’ve heard
 as we’ve just heard
 As welcome as flowers in May
 As welcome as water in one's shoes
+as well as
 as well as
 As well as
 as well as
@@ -8827,6 +8893,7 @@ as you climb up the ladder, the things you acquire on your way up will weigh you
 as you go
 as you go
 as you go
+as you know
 as you know
 As you make your bed, so must you lie on it
 As you make your bed, so you must lie upon it
@@ -9090,7 +9157,6 @@ astonished by
 astonishing story
 astonishing story
 astra inclinant
-astray
 astute appearance
 asylum seekers
 asylum seekers
@@ -9757,6 +9823,7 @@ at the muster station
 at the odds
 at the office
 At the office
+at the onset of
 at the other end of the scale
 at the outset
 at the outset
@@ -9780,6 +9847,7 @@ at The point of
 at the point of
 at the post office
 at the present level
+at the present time
 at the prospect of
 at the races
 at the ready
@@ -9809,6 +9877,8 @@ at the same time
 at the same time
 at the same time
 at the same time
+at the same time
+at the same time
 at the same time 
 at the same time 
 at the same time it
@@ -9816,9 +9886,6 @@ at the same time it is
 at the school
 at the seaside
 at the situation
-at the sky
-At the spur of the moment
-At the spur of the moment
 at the start 
 at the start 
 at the start of
@@ -9846,9 +9913,9 @@ at the time of
 at the time of the
 at the time of the
 at the top of
-at the top of
-at the top of
+at the top of a
 at the top of his voice
+at the top of the
 at the top of the list
 at The top of The tree
 at the top of the tree
@@ -9874,6 +9941,7 @@ at the weekend
 at the weekend of
 at their blooming best
 at their blooming best 
+at this instant
 at this juncture
 at this juncture
 at this juncture
@@ -9993,22 +10061,28 @@ Attempting to succeed at something
 attempts to
 attempts to
 attempts to hide 
+attend a meeting
 Attend an event or a sight
 Attend classes at a school as a student
 Attend event
 attend the concert
 attend the funeral
+attend the meeting
 attend the talks
 Attend to
 Attend to
 attendance allowance
+attended a meeting
 attended by a crowd
 attended the funeral
 attended the wedding
 Attended to
+attending a meeting
 attending a venue
 attending a venue
+attending the meeting
 attends court to testify about events they know
+attends the meeting
 attention span
 attention span
 attention to detail
@@ -10202,6 +10276,7 @@ away all day
 away all day
 away all day
 away all day 
+away for too long
 AWAY from
 away from
 away from
@@ -11423,6 +11498,7 @@ Be taken with
 Be taken with
 be tantamount to
 be that as it may
+be that as it may
 Be that as it may
 be that as it may
 be that as it may
@@ -11693,6 +11769,7 @@ Because I can do it
 because I said so
 because I say so
 because it can be
+because of
 Because of
 because of
 because of
@@ -11710,6 +11787,7 @@ because of Their paired
 Because of this
 Because of this
 Because of this,
+because the
 because the individual taxpayer pays it
 because the parents cannot look after the children
 Because Their words had forked no lightning They
@@ -11883,6 +11961,7 @@ before any
 before anyone else had a clue
 before anything else
 before anything else
+before anything else
 Before anything else
 before anything else
 before anything else
@@ -11936,6 +12015,7 @@ before World War II which
 before you act
 Before you ask, ‘How could this happen to me ’ consider the root of human
 Before you can be honest with others, you have to be honest with yourself
+before you can say
 Before you can say Jack Robinson
 before you can say Jack Robinson
 Before you can say knife
@@ -11943,12 +12023,14 @@ Before you can score, you must have a goal
 Before you could say knife
 before you cross The street
 Before you go on
+Before you go on, I’d like to say something
 before you know
 before you know
 before you leave
 before you leave
 Before you let yourself go, be sure you can get yourself back
 Before you make a friend eat a bushel of salt with him
+Before you move on, I’d like to say something
 Before you put your house and lands in order, cleanse and purify your body
 before you realise 
 Before you threaten anyone, try asking politely
@@ -12070,6 +12152,7 @@ Behind the Ball
 behind the eight ball
 Behind the eight ball
 behind the eight ball
+behind the frontline
 Behind the scene
 Behind the Scenes
 behind the scenes
@@ -12125,6 +12208,7 @@ being sent to prison
 being served
 Being so enthusiastic and passionate about something that you think
 Being successful as something without difficulty
+being that
 Being the first one to make a start at something
 being too happy
 being trapped inside a box
@@ -12233,6 +12317,7 @@ below average
 Below consciousness, unconscious urges lurk and lie, waiting to obscure your
 below our feet
 below par
+below par
 Below the belt
 below the belt
 below the level of awareness which hold them back from making the final step to
@@ -12278,7 +12363,10 @@ Bending, stretching, eating, drinking, chewing, tasting, passing urine, and disc
 bendy buses
 bendy buses 
 bendy buses 
+beneath his dignity
+beneath my dignity
 Beneath The sky shall be our bed
+beneath your dignity
 Beneficial interest belonging to a person even though someone else is
 beneficial owner of the investment
 Beneficial owner the owner of a piece of land
@@ -12339,10 +12427,12 @@ beset by problems
 beset by setbacks
 beset with
 beside the highway
+beside the road
 Besides that
 besides that
 Besides The above-mentioned trinomials
 besides this
+besides, 
 besotted by
 Bespoke tailor
 best and brightest of
@@ -12615,6 +12705,7 @@ bewilderment when the old stories have
 bewitched by
 beyond a doubt
 Beyond a shadow of a doubt
+beyond all 
 beyond all comprehension
 beyond all hope
 beyond all reasonable doubt
@@ -13484,6 +13575,7 @@ board and lodging
 Board game
 Board games are a lot of fun
 board of directors
+board of directors
 Board or mount something, especially a vehicle
 board The boat
 board the bus
@@ -13664,6 +13756,7 @@ book burning
 book burning
 book burning 
 Book by
+book by
 Book in
 Book in at
 book of condolence
@@ -14451,6 +14544,7 @@ brightly lit
 Brightly-lit hall
 brightly-lit room
 brightly-lit street
+briljant discovery
 brilliant acting
 Brilliant at
 brilliant at
@@ -14643,7 +14737,7 @@ British German or Swedish culture
 British hospital series
 British is best
 British is best 
-British Labour Party slogan and manifesto title for the General Election The slogan was matched by the use of D
+British Labour Party 
 British linguist
 British Navy
 British Prime Minister
@@ -15236,6 +15330,7 @@ Busy with
 busybody
 but a swarm in July is not worth a fly
 but also
+but also
 but also 
 but also in 
 but apparently
@@ -15245,8 +15340,10 @@ but as assonance in J-Day
 but at the same time
 but at the same time it
 But collocations go far beyond idiomatic expressions
+but eventually
 but eventually 
 but every now then
+but for
 But for
 but for
 but for
@@ -15333,6 +15430,7 @@ but only when
 but others you cannot, so you have to try to make the best of what you have where you have no
 but otherwise
 but otherwise OK
+but otherwise unharmed
 but outside the
 but precisely because of that
 but reluctantly
@@ -15346,6 +15444,7 @@ but the interpretation of the law or of
 but the local
 but the rental company still owns the television
 but the win was a real joint effort
+but then
 but then again
 But Then again
 But Then again
@@ -15482,12 +15581,14 @@ by all accounts
 by all accounts
 by all accounts
 by all means
+by all means
 By All Means
 by all means
 by all means
 by all means
 by all means
 by an act
+by an act of
 by an independent person or
 by analogy with
 by analogy with
@@ -15496,6 +15597,7 @@ by and by
 by and by
 by and by
 by and by 
+by and large
 by and large
 by and large
 By and large
@@ -15544,8 +15646,6 @@ by candle light
 by candlelight 
 by car
 by car
-by chance
-By chance
 by chance
 by chance
 by chance
@@ -15755,6 +15855,7 @@ by profession
 by protest
 by proxy
 by proxy
+By pure chance
 by pure chance
 by pure chance
 by pure chance
@@ -15894,6 +15995,7 @@ by the roadside
 by the roadside
 by the rules
 by the sackload
+by the same token
 by the seaside
 By the short hairs
 By The side of
@@ -15925,6 +16027,7 @@ by the speed of light
 by the speed of light squared
 By the street of 
 by the time
+by the time
 By the time
 by The time
 by the time
@@ -15935,6 +16038,7 @@ by the time we reached
 By the time you are ready to reach your goal, the goal-posts will have moved
 By the time you can make ends meet, they move the ends
 By the time you’ve spotted the target, the target has changed
+by the use of 
 by the way
 by the way
 by the way
@@ -16472,6 +16576,7 @@ can give rise to
 can have its ownership changed 
 can have its ownership changed simply by
 can have profound health consequences for older people
+Can I add something here
 Can I ask you
 Can I ask you 
 Can I borrow your pen please
@@ -16494,6 +16599,7 @@ can I please
 can I please
 can I take your order
 can I take your vote
+Can I throw my two cents in
 Can I try it on 
 can issue
 can lead to
@@ -17554,6 +17660,7 @@ caused a bloodbath
 caused a commotion
 caused a scandal
 caused a sensation
+caused ambiguity 
 caused by
 caused by
 caused by 
@@ -17707,11 +17814,13 @@ certain types of
 Certainly I like noodles with poppy
 certainly not
 certainly so
+certainly so
 Certainly, sir 
 Certificate of
 certificate of celibacy
 Certificate of origin a certificate stating in which country the goods being
 certificates to the solicitors who can 
+certified dead
 certified insane
 certified insane
 certified to sail
@@ -18273,6 +18382,7 @@ Chief executive officer
 chief executive officer
 chief instructor
 Chief rent money charged regularly on freehold land
+chiefly so
 chiffchaff
 Child abuse molestation or ill
 Child assessment
@@ -18799,6 +18909,7 @@ clenched fist
 Clenched teeth
 clerk Complementing
 Clerk to the Justices a solicitor or barrister who helps 
+clever antics
 Clever at
 clever at
 clever clues 
@@ -18946,6 +19057,7 @@ Close down
 Close down
 Close down
 Close down 
+close encounter
 close encounter
 close encounters
 close encounters
@@ -19395,6 +19507,7 @@ Come across
 come across
 come across as
 come across as
+come across as
 Come after
 Come after
 come again
@@ -19406,6 +19519,7 @@ Come along
 come along
 Come along 
 Come along nicely
+come and
 come and 
 come and get
 come and go
@@ -19418,6 +19532,7 @@ Come and have a drink
 Come and have a look
 come and help
 come and listen
+come and see
 come and see
 come and see
 Come and see
@@ -19870,6 +19985,7 @@ comes across as
 comes across as
 comes across as
 comes across as
+comes across as
 comes across as 
 comes after
 comes after
@@ -19878,6 +19994,7 @@ comes along
 comes at a price
 comes BEFORE
 comes before
+comes down
 Comes down from
 comes down to
 comes for
@@ -20176,6 +20293,7 @@ Company’s turnover
 comparative format like
 comparative forms
 comparative the
+comparatively
 Comparatively cheap 
 Comparatively weak
 Compare creates despair
@@ -20766,6 +20884,7 @@ consequences as it can be undone
 consequences it is wrong to
 consequences it is wrong to steal
 consequences of their own actions
+consequently
 consequently decided 
 Conservative creatures
 Conservative election poster
@@ -20932,6 +21051,7 @@ Contemplation of the mind objects focuses on the five hindrances of lust, anger,
 contemplative plain
 contemporary conflict
 contemporary crime
+contempt of court
 contempt of court
 contempt of court
 Contempt of court
@@ -21111,6 +21231,7 @@ Conventionalised combinations
 Conversation should be pleasant without scurrility
 conversation with the public many
 conversation with the public many of
+conversely
 Conversely considered
 conversely so
 conversely so
@@ -21331,6 +21452,7 @@ correspond to
 correspond with
 correspondence Constant questioning
 correspondence course
+correspondingly
 corroborate his story
 Corroborate, prove, or confirm
 corrosion controller
@@ -21579,6 +21701,7 @@ counting on
 Counting sheep
 counting the calories
 counting the cash
+Counting the cost
 counting The cost
 counting the number 
 Counting till
@@ -21610,6 +21733,7 @@ county's senior officer
 couple from The Flintstones cartoon
 couple of huts
 coupled to
+coupled with
 Coupled with
 coupled with a
 Couples who are going through a rough patch 
@@ -22808,6 +22932,7 @@ dare to
 Dare to dream 
 Dare to suck
 dared to
+daring deed
 daring deeds
 daring deeds
 daring dress
@@ -22946,6 +23071,7 @@ day, isn’t it
 day, western culture has borrowed images and ideas, sayings, and
 day’s sailing
 day’s waiting 
+day’s work
 daybreak
 daydream 
 Daydream or romanticize
@@ -23223,6 +23349,7 @@ decent and dignified
 decent and dignified 
 decent day's work
 decent people
+decent people
 decently done
 decently done
 decently done 
@@ -23241,6 +23368,7 @@ Decide about
 Decide about
 decide between 
 decide between two choices 
+decide to 
 Decide to do something about it
 Decide upon
 decided about
@@ -23503,11 +23631,14 @@ defining feature
 defining feature
 defining The future
 defining the future
+Definitely
 definitely different
 definitely different
 definitely impressive
 definitely impressive
 definitely impressive
+Definitely so
+Definitely so
 definitive date
 definitive decision
 definitively decided
@@ -23597,11 +23728,15 @@ Deliver the goods
 deliver the load
 deliver the milk
 deliver the milk
+deliver to 
 delivered a crippling blow
 delivered a crushing blow
 delivered its load
 delivered the milk
 delivered to
+delivered to
+delivering to
+delivers to
 delivery boy
 delivery kitchen
 delivery vehicle
@@ -23740,6 +23875,7 @@ deprived from
 deprived of 
 derailed train
 Derby Day
+dereliction of duty
 derision and discrimination
 derision and discrimination
 derision and discrimination 
@@ -23849,6 +23985,7 @@ Desperately seeking Susan
 desperately tried to
 desperately trying to
 despising the secular world
+Despite all
 despite doctors
 despite everything
 Despite everything
@@ -24171,6 +24308,7 @@ different by design
 different directions
 different edition
 different fathers
+different from
 Different from
 different from
 Different in
@@ -24457,6 +24595,7 @@ Disappointed to
 disappointing outcome
 disappointing result
 disappointingly low
+disappointingly low
 disarranged state
 Disassemble for shipment
 disaster averted
@@ -24468,6 +24607,7 @@ disaster zone
 disastrous consequences
 disastrous dalliance
 disastrous defeat
+disastrously wrong
 Disbursement a payment made by a professional person
 Discard or meld all the cards in one’s hand
 Discard trash, garbage, or the like, to toss out, to put in the trash, to dispose of
@@ -25081,6 +25221,7 @@ do you believe
 Do you do this often
 Do you ever go shopping without money
 do you find it
+do you get my drift
 Do you go to football matches
 Do you have
 Do you have a
@@ -25146,6 +25287,7 @@ do you mind
 do you mind
 do you mind
 do you mind
+Do you mind if I add something
 Do you mind if I open the window
 Do you mind if I read your newspaper
 Do you need a shoulder to cry on
@@ -25749,6 +25891,7 @@ don’t I
 Don’t judge each day by the harvest you reap but by the seeds you
 Don’t judge others by yourself
 Don’t jump to conclusions
+don’t just
 Don’t just sit outside the door; look inside and seek for more
 Don’t just stand there twiddling your thumbs and clicking your gums
 Don’t just stand there, do something
@@ -25879,6 +26022,7 @@ done badly
 done by the individual member countries unless they
 done deal
 done for material benefits
+done forthwith
 done him a favour
 done his bet
 done his homework
@@ -25965,6 +26109,7 @@ double declutch
 double delight
 double denim
 double dig
+double disaster
 double disaster
 double disaster
 double discount
@@ -26129,6 +26274,7 @@ down to earth
 down to earth
 down to earth
 down to the
+down to the 
 down to The day when
 down to the fact that
 down to the ground
@@ -26731,6 +26877,7 @@ ducunt volentem fata
 due attention
 due to
 due to
+due to
 due to 
 Due to 
 due to a
@@ -26799,6 +26946,7 @@ During his tour of Britain, he visited the following industrial centres
 during night-time
 during previous waves of automation
 during the campaign
+during the course
 during The day
 during the day
 during the day
@@ -26894,7 +27042,8 @@ dying fire
 dying fire
 dying fire 
 dying for
-dying for
+dying for a
+dying for a drink
 dying from
 Dying leave it
 dying man
@@ -26908,8 +27057,6 @@ Dylan The Villain
 Dylan, Bob I accept chaos I am not sure he accepts me
 dynasty Dangerous driving
 Dysentery or diarrhoea
-e pluribus unum
-E.g.
 each and every
 each and every
 each and every
@@ -26923,6 +27070,7 @@ each and every time
 Each bird loves to hear himself sing
 Each circuit has its own
 Each county in the UK has a
+each day
 Each for all and all for each
 each in their turn
 each in turn
@@ -26981,6 +27129,7 @@ early bird
 Early Bird [noun or adjective]
 early bird catches the worm
 early bird catches the worm
+early days
 Early days
 Early days
 early days
@@ -27363,6 +27512,7 @@ elector receptors
 electric fence
 electric kettle
 electrical activities in the brain
+electrical appliances
 Electronics industry
 elects to
 elegance or decadence
@@ -27874,6 +28024,7 @@ enthusiastic about
 Enthusiastic and hard worker
 entire life
 entire life
+entire life
 entirely appropriate 
 entirely different
 entirely different
@@ -27914,6 +28065,8 @@ Equal rights
 Equal rights
 equal to
 equal to
+equally important
+equally so
 equals mass multiplied by the
 equals mass multiplied by the speed
 Equanimity comes when the mind through deepening concentration becomes free from
@@ -28005,6 +28158,7 @@ Escrow a deed which has been supplied but cannot become
 Eskimo You never know your friends from your enemies until the ice breaks
 esp daniel j fagnant 
 esp daniel j fagnant kara
+especially
 especially after a period of hesitation
 Especially compounds
 especially if
@@ -28145,6 +28299,7 @@ Even from a foe a man may learn wisdom
 Even from a foe a man may learn wisdom
 Even from a foe a man may learn wisdom
 Even from afar, Himalaya can be seen; evil hides its face
+even if
 Even if
 even if
 even if 
@@ -28185,12 +28340,14 @@ Even should robbers saw though your limbs, never give way to anger; the mind
 even so
 even so
 even so
+even so
 Even some foreign loanwords if They are well-sounding combinations
 Even Steven
 Even the best writer has to erase
 even the most hardened
 even the playing field
 even the playing field
+even though
 Even though
 Even though	
 even though
@@ -28524,6 +28681,7 @@ exactly matched by
 exactly matched by
 exactly on schedule
 Exactly right
+Exactly right
 exactly right
 exactly right 
 Exactly so
@@ -28667,8 +28825,11 @@ Excuse me a minute
 Excuse me for
 excuse me for
 Excuse me for
+Excuse me for a second, but
 Excuse me for being late
+Excuse me for interrupting, but
 excuse me while I kiss this guy
+Excuse me, but in my opinion
 Excuse my French
 Excused Boots
 excused for
@@ -28812,6 +28973,7 @@ explaining why
 explains the jury's role and summarises the
 Explains to
 explanation of how
+explicitly 
 Explode false illusions which keep 
 Explode metaphorically
 Explode or be
@@ -28864,6 +29026,7 @@ expressed by
 expressed by either
 expressed in
 expressed the wish to
+EXPRESSING DISAGREEMENT 
 Expressing disagreement with an opinion expressed by another
 expressing disapproval or another negative attitude
 expressing gratitude
@@ -28875,6 +29038,7 @@ expression that contains four times alliteration
 Expressions like I think it will fit The bill
 expressions on top of The normal ones like
 expressive manner 
+expressly so
 exquisite collection
 exquisite living
 exquisite living
@@ -29450,6 +29614,7 @@ Fall on
 Fall on
 Fall on
 Fall on
+fall on hard times
 fall on one's feet
 Fall on One's Sword
 Fall on our feet
@@ -29503,6 +29668,7 @@ falling in love with
 Falling is easier than rising
 falling like flies
 falling like flies 
+falling on hard times
 falling out of 
 falling out of fashion
 falling short of
@@ -29643,6 +29809,7 @@ fantastic result
 fantasy of The future
 far along with
 far along with 
+far and beyond
 far and near
 far and near
 far and wide
@@ -29795,6 +29962,7 @@ Fatal mistake
 fate decides The outcome
 fateful day
 fatface
+father and mother
 Father Figure
 father figure
 father figure
@@ -30112,6 +30280,8 @@ fell off a
 fell off a cliff
 Fell off a Truck
 Fell off the Back of a Lorry
+fell on deaf ears 
+fell on hard times
 fell on stony ground 
 fell out of
 fell out of favour
@@ -30299,6 +30469,7 @@ fierce creature
 fierce creatures
 fierce defender
 fierce defender of The faith
+fierce determination
 fierce tears
 fiercely argue
 Fiercely competitive
@@ -30573,6 +30744,7 @@ finally facing defeat
 finally find
 finally find
 finally find 
+finally finished
 finally finished
 finally finished 
 finally fit
@@ -30965,6 +31137,7 @@ first stint
 First study 
 first tentative steps
 first tentative steps
+first thing to remember
 first things first
 First things first
 First things first
@@ -30982,6 +31155,8 @@ first-hand experience
 First, abandon unwholesome states before they arise by blocking the five hindrances of
 First, it is the underlying
 First, personality view is cut off when one begins to see that a permanent self is sheer illusion
+first, second
+first, second, third
 First, we make our habits; then, our habits make us
 First, you want a kiss, and then you want more, and then a whole family to love
 Firstly, they Secondly, they
@@ -31534,6 +31709,7 @@ flying the flag
 flying time
 flying visit
 flying visit
+flying visit
 Foam at the mouth
 foam fight
 foaming at the mouth
@@ -31813,6 +31989,7 @@ for all I know
 for all I know
 for all I know
 for all I know
+for all I know
 for all intents and purposes
 For all intents and purposes
 for all intents and purposes
@@ -31829,6 +32006,7 @@ for all the wrong reasons
 for all the wrong reasons
 For all their good intentions
 for all those who
+For all to
 for all to hear
 For all to hear
 for all to hear
@@ -31933,6 +32111,7 @@ For every complex problem, there is a solution that is simple, neat
 For every thing there is a season
 for everybody to hear
 For ex ample, and He conducted a series of semi-structured interviews in
+for example
 For example
 For example
 For example
@@ -31948,6 +32127,7 @@ for fear of
 for fear of
 for fear of
 for fear of
+for fear that
 For final 
 for finding
 for forgiveness
@@ -32007,6 +32187,7 @@ for hundreds of thousands of years
 for I care to remember
 for inspection
 for inspection by members of the public
+for instance
 For instance
 For instance
 for instance
@@ -32109,6 +32290,7 @@ for not having
 for not making 
 for now
 For now
+for now 
 for now and forever
 for old lang syne 
 for once
@@ -32121,6 +32303,7 @@ for once in my lifetime
 for once in your life
 for one moment
 for one moment
+for one thing
 for one thing
 for one's own good
 for one’s own sake
@@ -32164,6 +32347,7 @@ For real
 for real
 for real
 for real
+for reasons
 For reference to single investigations or publications in the past, the simple past tense is used
 for religious reasons
 For rent
@@ -32292,6 +32476,7 @@ for the moment
 for the moment
 for the most part
 for the most part
+for the most part
 for the naturalisation of one s speech 
 for the next
 for the next day
@@ -32302,6 +32487,7 @@ for the occasion
 for the other person 
 for the other person 
 for the other person 
+for the purpose of
 for the purpose of
 for the purpose of
 for the purpose of
@@ -32369,6 +32555,7 @@ for their part
 for them
 For They could not love you
 for this phenomenon
+for this reason
 For this reason
 for this reason
 For this session
@@ -32653,6 +32840,7 @@ former farm
 former friend
 former General 
 former glory
+formerly known as
 formerly known as
 formidable fighting force
 formidable figure
@@ -32948,6 +33136,7 @@ frenzied physical attack
 frenzy of frogs
 frenzy of frogs
 frequent flyer
+frequently so
 fresh air
 fresh and
 fresh and fruity
@@ -33226,6 +33415,7 @@ from far and near
 from far and near
 from far and near 
 from far and wide
+from far and wide
 from far and wide 
 from far away 
 from far-flung
@@ -33289,9 +33479,15 @@ from miles away
 from Monday to Sunday
 from Monday to Sunday
 From my part
+From my perspective
+From my perspective
+From my point of view
+From my point of view
+From my point of view
 from my point of view
 From my point of view
 from my point of view
+From my view point
 from near and w
 from neglected to protected
 from nine to five
@@ -33485,6 +33681,7 @@ from the very beginning
 from the very start
 from The Vikings to The Victorians
 from the Vikings to the Victorians
+from the word go
 from their point of view
 from their point of view
 from then on
@@ -33494,6 +33691,7 @@ from then on
 from then on
 from this angle
 From this time forward
+from time to time
 From time to time
 From time to time
 from time to time
@@ -33660,6 +33858,7 @@ full and formal
 full and formal 
 full assonance or where his allegiance lies
 full attention
+full blast
 full bush
 full capacity
 full confession
@@ -33864,6 +34063,7 @@ further assistance
 further cuts
 further cuts
 further details
+further down the road
 Further Down the Road
 further eruptions
 further eruptions
@@ -33878,6 +34078,7 @@ Further research
 further stressed syllable 
 further up
 further up 
+further up the road
 further up the road
 further your journey
 further your journey
@@ -34133,12 +34334,15 @@ General meanings or application of meanings
 General meeting a meeting of the members of a company to make
 General Patton
 General Ratko Mladic
+general statement
 General summary
 General summary
 General's quarters
 Generally accepted methods for include
 generally believed
+Generally it is thought that
 generally so
+generally speaking
 generally speaking
 generally thought
 Generally, provides two types of information
@@ -34613,14 +34817,13 @@ Get out
 Get out
 Get out
 get out
-Get out 
-Get Out Of
-Get out of
+Get out and
 Get out of
 Get out of
 Get out of
 get out of
 get out of
+Get Out Of a
 get out of bed
 Get out of breath
 Get out of breath
@@ -34632,6 +34835,7 @@ Get out of hand
 get out of here
 Get out of my way
 get out of order
+Get out of the
 Get Over
 Get over
 Get over
@@ -34659,11 +34863,11 @@ get pulled over by the police
 Get ready
 get ready
 get ready
-get ready
 Get ready for
 Get ready for
 get ready for
 get ready for 
+get ready to
 Get rid of
 Get rid of
 Get rid of
@@ -35349,12 +35553,14 @@ Given in
 Given in to
 Given out
 given permission
+given that
 Given that
 given the circumstances
 given the circumstances
 given the circumstances
 Given the fact
 given the opportunity
+given these points
 given to the court before the sentence is given
 Given up
 given up 
@@ -35414,6 +35620,7 @@ giving us the chance
 giving voice to The victims
 Giving way
 Giving weak opinions
+Giving Your Opinion
 glacial lake
 Glad it helps 
 glad to be
@@ -35554,6 +35761,7 @@ Go around
 Go around 
 go as far as to say
 go as planned
+go astray
 Go astray
 Go astray
 Go astray
@@ -36146,6 +36354,7 @@ going against The grain
 going against The grain
 going against the grain 
 going against the stream
+going astray
 going bald
 going berserk
 going blind
@@ -36248,6 +36457,7 @@ golden stone
 Golly gee
 Gone and back
 gone are the days when
+gone astray
 Gone back
 gone back home
 Gone back to
@@ -36344,6 +36554,7 @@ good enough for
 good enough for
 good enough for
 good enough for 
+good enough for me
 good enough to
 good enough to
 good enough to
@@ -36489,6 +36700,7 @@ good-looking man
 Good, switch it on
 Good, that’s another score draw
 goodbye and
+goodbye for now
 goodbye or without permission
 goodbye to
 goodness knows
@@ -36657,6 +36869,7 @@ grant a pardon
 Grant of probate a certificate proving that the executors of a will are
 Grant proof that you are entitled to deal with a dead
 granted bail 
+granted that
 grape growing
 grape growing
 grape growing 
@@ -37010,6 +37223,7 @@ ground to a halt
 Ground zero
 ground-breaking results
 ground-breaking technology
+groundbreaking technology
 Group dynamics
 group of girls
 Group therapy
@@ -37290,6 +37504,8 @@ hail, o hail, Liberty!
 hailed a hero
 hailed as heroes
 hailed as heroes 
+hailed from
+hails from
 hair of the dog
 hair of the dog
 Hair of the Dog That Bit You
@@ -37588,6 +37804,7 @@ Happen to
 Happen to
 happened before
 happened before
+happened by chance
 happened elsewhere
 happened in
 happened to
@@ -37626,6 +37843,7 @@ Happiness is success
 Happiness is the absence of fever
 Happiness is when what you think, what you say and what you do
 Happiness makes up in height what it lacks in length
+happiness or success
 Happiness takes no account of time
 happy A chronic case of
 happy about
@@ -37673,6 +37891,7 @@ happy hours
 happy huddle
 happy huddle 
 Happy is he that is happy in his children
+happy memories
 Happy nations have no history
 happy on holiday
 Happy slapping
@@ -38306,8 +38525,8 @@ have eyes like an eagle
 Have faith
 Have faith
 have faith in
-have faith in
-have faith in 
+have faith in a
+have faith in the
 have feelings for
 have feelings for
 Have food
@@ -39635,10 +39854,13 @@ hemmed and hawed
 hen harriers
 Hen weekend
 hence a belt buckle
+hence it is 
+hence the name
 hence this catchy compound will be better recognised
 hence this catchy expression will be better recognised
 Hence we say
 Hence we speak of
+henceforth
 Henry was sick yesterday and missed his classes
 hens eggs
 hens peck
@@ -39708,6 +39930,7 @@ here and now
 here and now
 here and now 
 here and there
+here and there
 here and There
 here and There
 here and there
@@ -39738,6 +39961,7 @@ Here are some well-known formats
 here comes
 here comes The cavalry
 here comes the cavalry
+here for you 
 here goes
 here goes
 Here he is
@@ -39758,6 +39982,7 @@ Here today, gone tomorrow
 here we are
 here we are
 Here we find
+here we go again
 Here we go again
 here we go again
 here we go again
@@ -39903,6 +40128,7 @@ hiding from
 hiding from
 hiding from
 hiding from
+hiding from the police
 hiding from the police
 hiding from the rain
 hiding her feelings
@@ -40837,6 +41063,7 @@ Horrible weather
 horribly gone wrong
 horribly gone wrong
 horribly gone wrong
+horribly wrong
 Horrid H
 horrific conditions
 horrific conditions
@@ -40964,6 +41191,7 @@ House, shelter, or take in
 House's roof
 housed in 
 housefly with
+household appliances
 household chore
 household chore
 household hygiene
@@ -41080,11 +41308,14 @@ How do you do
 How do you do
 How do you do it
 How do you do, Mr Newton
+How do you feel about
 How do you feel about 
+How do you feel about and
 How do you like your eggs
 how do you plead
 how do you say
 How do you say
+How do you see the situation
 how do you spell
 How do you spell your name
 how does it feel
@@ -41239,7 +41470,9 @@ However good
 However hard
 However hard
 However long
+However long
 however long
+however low
 however many
 However more
 however more
@@ -41448,6 +41681,7 @@ husky voice
 hut circle
 Hyman remains
 hyphenated compound nouns are
+hyphenated form
 Hyphenated or Compound Words
 Hypocritically criticise or accuse someone else is as guilty as the person criticising for
 Hypothecation a person giving a bank authority to sell goods which
@@ -41460,11 +41694,14 @@ I agree 00%
 I agree 100%
 I agree 100%
 I agree in principle
+I agree in that
 I agree up to a point
+I agree up to a point, but
 I agree with
 I agree with
 I agree with Nick
 I agree with you
+I agree with you entirely
 I agree with your point
 I allowed my father to organize my life
 I almost had it
@@ -41583,10 +41820,13 @@ i began to
 i began to understand why
 I began to work out today
 I believe in
+I believe in
 I believe it is imperative for other people to obey the law and pay taxes
 I believe so
 I believe so
 I believe so
+I believe so
+I believe that
 I BELIEVE THAT
 I believe that all suffering is caused by ignorance
 I believe that man will not merely endure; 
@@ -41680,6 +41920,7 @@ I can’t do that
 I can’t even see straight
 I can’t find an empty seat at all
 I can’t find it
+I can’t go along with
 I can’t go into the bathroom
 I can’t help
 I can’t help you there
@@ -41700,6 +41941,7 @@ I changed my mind
 I check my watch
 I come from the east
 I come here to learn English
+I completely disagree
 I completely forgot about it 
 i conclude that my life s
 i conclude that my life s mission
@@ -41749,8 +41991,13 @@ I couldn't think of anything to do
 I couldn't understand
 I couldn't wait to get back home 
 I couldn’t agree more
+I couldn’t agree more
+I couldn’t agree more
+I couldn’t agree more
 I couldn’t agree with you more
 I couldn’t believe my eyes
+I couldn’t believe my eyes
+I couldn’t go along with that
 I couldn’t see any familiar faces in the room
 I daresay
 I did not know whether I was a man dreaming he was a butterfly or
@@ -41761,6 +42008,7 @@ I didn’t catch the ball
 I didn’t expect so
 I didn’t make any empty promises
 I didn’t think so
+I disagree with
 I disagree with
 I distinctly remember
 I distrust all systematizers, and I avoid them
@@ -41826,6 +42074,8 @@ I don't want to rain on your parade
 I don't want you to
 I don't want you to
 I don't want you to 
+I don’t agree or
+I don’t agree with you
 I don’t believe it
 I don’t believe it
 I don’t believe it
@@ -41838,11 +42088,13 @@ I don’t feel like it
 I don’t fit into this century, and it won’t be long before nobody else does either way
 I don’t have a favourite novelist
 I don’t have strong feelings 
+I don’t have strong feelings either way
 I don’t have to work here ever again
 I don’t have too much clothes
 I don’t have very strong views on this and I had some support
 I don’t know
 I don’t know
+I don’t know about other people, but I can say
 I don’t know how to express my gratitude
 I don’t know how to thank you
 I don’t know many people here
@@ -41857,6 +42109,8 @@ I don’t like it very much
 I don’t like journalists
 I don’t like when I have a debt
 I don’t live near here
+I don’t mean to intrude, but
+I don’t really agree with that idea
 I don’t recall that
 I don’t stand a ghost of a chance without you
 I don’t suppose so
@@ -41867,6 +42121,8 @@ I don’t think I quite understand what you mean
 I don’t think she heard
 I don’t think so
 I don’t think so
+I don’t think so
+I don’t think so either
 I don’t usually answer this question
 I don’t want to be a shop assistant
 I don’t want you to be late
@@ -41896,11 +42152,14 @@ I feel honoured
 I feel just the same way
 I feel like
 I feel like
+I feel like
 I feel like I’m carrying the burden of the whole world on my shoulders
 I feel like something someone found in the ashes of a fire
 I feel really bad having to tell you this but
+I feel so
 I feel so cold
 I feel something should be done about 
+I feel that
 I feel very full
 I feel very good today
 I fell on the ground
@@ -41916,6 +42175,7 @@ I find it most unsatisfactory that
 I find my clothes
 I find not a single property which separates the waking state from a
 I find that 
+I find that very difficult to accept
 I finished writing my book report
 I firmly believe
 I firmly believe
@@ -41957,6 +42217,7 @@ I got the runs
 I grab a breakfast
 I grow old I grow old I shall wear the bottoms of my trousers
 I guess I'll go with you
+I guess so
 I guess so
 I guess so
 I guess that
@@ -42071,6 +42332,7 @@ I have no clue
 I have no clue 
 I have no desire to
 I have no doubt that
+I have no doubt that
 I have no idea
 I have no idea
 I have no idea
@@ -42079,6 +42341,7 @@ I have no idea
 I have no idea
 I have no knowledge of
 I have no money, no resources and no hopes I am the happiest man
+I have no opinion on the matter
 I have no opinion on the matter
 I have no opinion on the matter
 I have no opinion on the matter 
@@ -42102,6 +42365,7 @@ I have to go buy my groceries tonight
 I have to go home soon
 I have to practise this all day
 I have to say it’s beyond me
+I have to side with you on this one
 I have to speak to the receptionist
 I have two ears
 I have two keys
@@ -42134,6 +42398,7 @@ I heard what they said
 I heard you started a new job
 I hold a wolf by the ears
 I hold exactly the same view
+I hold the view that
 I hope all is well
 I hope he will succeed in his work
 I hope I can
@@ -42326,6 +42591,7 @@ I missed the bus
 I mostly agree
 I moved out west last year
 I must admit I don’t know much about that
+I must admit that I’m not sure
 I must apologise for
 I must find a shop
 I must find baggage reclaim
@@ -42333,6 +42599,7 @@ I must find them, he is thinking
 I must have a cup of tea soon
 I must say it looks very nice
 I must say that I don’t share your enthusiasm
+I must take issue with you on that
 I must try the next carriage
 I mustn’t park here
 I need a car like that
@@ -42369,6 +42636,8 @@ I never drink alcohol when I drive
 I never expected that 
 I never go to football matches
 I never had you down as
+I never imagined
+I never knew
 I never knew
 I never knew
 I never knew that
@@ -42376,10 +42645,12 @@ I never knew that
 I never knew that 
 I never knew that 
 I never read novels
+I never thought
 I never thought of that
 I never touch The stuff
 I never touch the stuff
 I never touch the stuff 
+I never understood
 I never used to 
 I noticed him cutting the grass
 i noticed that
@@ -42429,6 +42700,7 @@ I really hoped I'd be selected
 I really love my meat
 I really must apologize
 I really should
+I really think
 I really think
 I received lots of presents from my family
 I recognize you by your face that violently defines the land
@@ -42468,19 +42740,26 @@ I say so
 I say,
 I second that
 I second that
+I second that
+I see exactly what you mean
 I see no reason why
 I see stars
 I see stars 
 I see stars in
 I see things differently
 I see things rather differently myself
+I see what you are getting at
+I see what you are getting at, but
 I see what you mean
 I see what you mean
 I see what you mean
 I see what you mean
 I see what you mean 
+I see what you’re saying but
 I see you stand like greyhounds in the slips
 I see your coat
+I see your point
+I see your point, but
 I seem to remember
 I seem to remember that
 I seem to remember that
@@ -42523,17 +42802,21 @@ I stand to
 I started my job last week
 I started school in September
 I still have feelings for 
+I still have my doubts
 I still like The BMW better with its sporty top
 I still remember
 I still think that
 I strongly advise you to do more work out
+I strongly believe
 I strongly believe
+I strongly believe that
 I strongly object
 I suddenly realised
 I suddenly realized that 
 I suggest that you take a nap
 I suggest we get together on
 I suggest you talk to
+I suppose 
 I suppose I can do that
 I suppose not
 I suppose not
@@ -42542,7 +42825,9 @@ I suppose so
 I suppose so
 I suppose so
 I suppose so
+I suppose so
 I suppose so 
+I suppose that
 I suppose that
 I suppose that 
 I suppose you’re right
@@ -42551,9 +42836,11 @@ I swear I'll
 I take all the blame
 I take full responsibility
 I take great enjoyment playing off formality
+I take your word on it
 I tell you
 I tell you what
 I tend to disagree with that idea
+I tend to think that
 I think I am right
 I think I can suggest a compromise
 I think I know them
@@ -42564,9 +42851,12 @@ I think I’ll never try windsurfing
 I think insects are disgusting
 I think miracles are just 
 I think not
+I think not
 I think public opinion is that no one condones these places
 I think so
 I think so
+I think so too
+I think so too
 I think so, but
 I think someone is waiting for this room
 I think that
@@ -42599,9 +42889,11 @@ I took my medicine like a man
 I took off my watch and found I had all The time in The world
 I took some time for living
 I totally agree
+I totally agree
 I totally agree with that idea
 I tried and trued
 I tried to 
+I truly feel
 I trust to luck
 I trust you
 I understand
@@ -42610,6 +42902,7 @@ I understand that
 I understand that
 I understand the lesson now
 I understand what you’re trying to
+I understand where you’re coming from but
 I understand you
 I used to
 I used to
@@ -42826,6 +43119,7 @@ I would rather
 I would rather 
 I would rather feel compassion than know the meaning of it
 I would recommend
+I would say
 I would suggest
 I would suppose
 I wouldn't bank on it
@@ -42842,11 +43136,10 @@ I wouldn't put it past her
 I wouldn't put it past him
 I wouldn't put it past him 
 I wouldn’t put it past him
+I wouldn’t quite put it that way myself
 I wouldn’t recommend it
 I write a letter
 I wrote him a letter
-i.e. 
-i.e. one word but open or hyphenated forms
 I'd appreciate it if you could 
 I'd appreciate your advice
 I'd be delighted to
@@ -43197,6 +43490,9 @@ I’d forget my head if it wasn’t attached
 I’d give it a
 I’d give it a go
 I’d give it a try
+I’d go along with that
+I’d go along with that
+I’d go along with that view to a point 
 I’d like a brand new radio
 I’d like a larger window
 I’d like a new car
@@ -43206,6 +43502,8 @@ I’d like to complain about
 I’d like to emphasize
 I’d like to learn to drive
 I’d like to point out that
+I’d like to point out that
+I’d like to point out that
 I’d like to see the sea
 I’d like to support this view
 I’d like to work in an own office
@@ -43214,6 +43512,9 @@ I’d prefer a
 I’d prefer the
 I’d prefer to 
 I’d say
+I’d say
+I’d say that
+I’d suggest that
 I’d wish
 I’ll be there
 I’ll be there
@@ -43233,14 +43534,19 @@ I’m a student I’m at London University
 I’m about to collapse
 I’m about to drop
 I’m absolutely
+I’m absolutely convinced
+I’m absolutely convinced that
 I’m afraid
 I’m afraid I can’t
+I’m afraid I disagree
 I’m afraid I don’t know
 I’m afraid I don’t really agree
 I’m afraid I have another meeting in 10 minutes
 I’m afraid I have to disagree
+I’m afraid I have to disagree
 I’m afraid I’ve got a short memory
 I’m afraid it’s not quite clear how you propose to
+I’m afraid, I disagree
 I’m all ears
 I’m all for
 I’m all yours
@@ -43288,16 +43594,20 @@ I’m not going back to nothing: I’ve been there
 I’m not really sure
 I’m not really warm enough
 I’m not so sure about that
+I’m not so sure about that
 I’m not sure
 I’m not sure
 I’m not sure
+I’m not sure I agree with you on
 I’m not sure I can answer your question
+I’m not sure I go along with that view
 I’m not sure if
 I’m not sure if I got that right
 I’m not sure that I agree
 I’m not sure, but off the top of my head I’d say
 I’m not too big, am I, Arthur
 I’m of exactly the same opinion
+I’m of the opinion that
 I’m on my last legs
 I’m on my way
 I’m only going to be a few minutes
@@ -43314,11 +43624,14 @@ I’m saving for a rainy day
 I’m so sorry
 I’m so sorry to hear that
 I’m so terribly sorry
+I’m sorry but I don’t agree
 I’m sorry but I really don’t agree
+I’m sorry to disagree with you, but
 I’m starving
 I’m stuck between a rock and a hard place
 I’m sure
 I’m sure about
+I’m sure that
 I’m sure that
 I’m terribly sorry
 I’m thin but strong
@@ -43349,8 +43662,10 @@ I’ve got the radio here, Arthur
 I’ve had a really heavy week 
 I’ve had it
 I’ve had them since last Wednesday
+I’ve heard that
 I’ve nearly finished it
 I’ve never been so disappointed in my whole life
+I’ve never given it much thought
 I’ve never given it much thought
 I’ve never heard anything
 I’ve never seen anything
@@ -43397,6 +43712,7 @@ identical rhyme and reversed rhyme
 Identical to
 identical to
 identical twins
+identically
 identified four abilities that might be subsumed under the term
 identified four abilities that might be subsumed under the term
 Identify among a group of similar subjects
@@ -43446,6 +43762,7 @@ If a share is sold cum dividend
 If a share is sold ex dividend
 If a zealot can be an idiot, then an idiot can be a zealot
 If advice will not improve him, neither will the rod
+If all conditions are met
 if all goes to plan
 If all goes to plan
 if all goes well
@@ -43516,11 +43833,14 @@ If I could turn back the clock,
 if I did
 If I had known I’d live so long, I’d have taken better care of myself
 If I had my druthers
+if I had the chance
 If I had to take a guess 
 If I have seen further it is by standing on the shoulders of giants
 If I may
+If I may interrupt
 If I may point out
 if I may say so
+If I might add something
 If I remember correctly
 If I say I don’t know where I am, then I know where I am
 if I say so
@@ -43571,11 +43891,13 @@ If It Had Been a Snake, It Would Have Bitten Me
 if it hadn’t been for
 If it is brown it will go down
 if it is delivered to
+if it wasn’t for
 If it were a snake, it would have bit you
 If it were a snake, it would have bit you
 If it were not for hope the heart would break
 If it were not for hope the heart would break
 If it were not for hope, the heart would break
+if it weren’t for
 if it works
 if it’s all the same
 If it’s not broken, don’t try to fix it
@@ -43832,6 +44154,7 @@ If you are not careful what you do, something bad will happen to you
 If you are on pins and needles, you are very worried about something
 If you are prepared to jump through hoops for someone, you are prepared to
 If you are truthful you will have as much gold as you want
+If you ask me
 If you ask me 
 If you beg to increase your property, God will diminish it
 If you believe everything you read, better not read
@@ -44163,6 +44486,7 @@ Immediate future
 Immediate future
 immediate release
 Immediate response
+immediately
 Immediately after
 immediately after
 immediately for an offence and may conditionally
@@ -44236,6 +44560,7 @@ important positions
 important that
 important thing in the world
 important thing in the world 
+important to realize
 Important to remember
 imported were made
 Impose conditions
@@ -44331,6 +44656,7 @@ In a case like
 in a case like that
 in a case where someone had been killed
 in a certain sense
+in a certain way
 in a civil case
 In a civil case the defendant may offer a
 in a civil court
@@ -44456,6 +44782,7 @@ in a matter of minutes
 in a matter of minutes
 in a matter of minutes
 in a matter of seconds
+in a meeting
 in a mental frenzy
 in a mental frenzy
 In a mere few
@@ -44471,6 +44798,7 @@ in a military
 in a million years
 in a million years
 In a minute
+in a moment
 In a moment
 in a moment
 in a moment
@@ -44501,6 +44829,7 @@ in a nutshell
 in a nutshell
 In a nutshell 
 In a nutshell 
+in a partnership
 in a partnership
 in a partnership
 in a partnership usually for a dishonest reason
@@ -44650,9 +44979,11 @@ in a while
 in a while
 in a word
 in a word
+in a word
 in abeyance
 in abeyance
 in absentia
+in abundance
 in abundance
 in abundance
 in abundance
@@ -44676,6 +45007,7 @@ in actual fact
 in actual fact
 in actual fact
 in actual fact
+in addition
 in addition
 in addition to
 in addition to
@@ -44814,6 +45146,8 @@ In anticipation of
 in any case
 in any case
 In any case
+in any event
+in any event
 In any event
 in any event
 in any event
@@ -44878,6 +45212,7 @@ In bad health
 In bad taste
 In bad taste
 In baiting a mousetrap with cheese, always leave room for the mouse
+in balance
 In bed
 In bed with
 in bed with
@@ -44932,6 +45267,7 @@ in brief
 in brief
 in brief
 in brief
+in brief
 In Britain
 in British English
 in British English 
@@ -44963,6 +45299,7 @@ in Cana of Galilee
 In care
 in careful condition
 in cars
+in case
 In case
 in case
 in case
@@ -45002,6 +45339,7 @@ in celebration of
 in certain cases
 in certain circumstances
 In certain contracts
+in certain ways
 in chains
 in chains
 in chaos
@@ -45133,6 +45471,7 @@ In concentration of the mind, the disciple knows when the action of the mind
 in concert
 in concert with
 in concert with
+in conclusion
 In conclusion
 in conclusion
 in conclusion
@@ -45192,6 +45531,7 @@ in context
 In context
 in contradiction with
 in contradiction with
+in contrast
 In contrast
 In contrast
 in contrast to
@@ -45307,6 +45647,7 @@ in detail
 in detail
 in detail
 in detail
+in detail
 in dialect
 in different combinations
 in different directions
@@ -45371,6 +45712,7 @@ in due course
 in due time
 in due time
 in due time
+in due time
 in duplicate
 in duplicate
 in duplicate
@@ -45379,11 +45721,13 @@ in early life
 in earnest
 in earnest
 in earnest
+in effect
 In effect
 In effect
 in effect
 in effect
 in effect
+in either case
 in either case
 in ellipses
 in emaciated
@@ -45400,6 +45744,7 @@ in error
 in error
 in error
 in essence
+in essence
 In essence
 in essence
 in essence
@@ -45408,6 +45753,7 @@ in essence
 In every beginning think of the end
 in every comer of The country
 in every conceivable colour
+in every corner
 in every nook and cranny
 in every nook and cranny
 in every nook and cranny
@@ -45450,6 +45796,7 @@ in existence
 in existence
 in existence
 in expression like
+in fact
 In fact
 in fact
 in fact
@@ -45458,6 +45805,7 @@ in fact
 in fact
 In fact it was the worst
 In fact it’s often an uphill battle all the way
+in fact, 
 in fair and accurate news reporting of court
 in fairness to
 in fairness to
@@ -45529,6 +45877,7 @@ in French
 In from left field
 in from The ranks
 in front of
+in front of
 In front of
 in front of
 in front of
@@ -45583,6 +45932,7 @@ in Gaza
 in gear
 in gear
 in gear
+in general
 in general
 in general
 in general
@@ -45644,6 +45994,7 @@ in grave danger
 in grave danger
 in grave danger
 in great comfort
+in great comfort
 in great danger
 in great demand
 In great demand
@@ -45663,6 +46014,7 @@ in great pain
 in great pain
 in great pain
 in great pain
+in great style
 in great style
 in great style
 in great style
@@ -45708,6 +46060,7 @@ in her favour
 in her head
 in her letter
 in her life
+In her opinion
 in her own right
 in her place
 in her presence
@@ -45754,6 +46107,7 @@ in his element
 in his element
 in his element
 in his element
+in his entire life
 in his farewell address
 in his favour
 in his final years
@@ -45768,6 +46122,7 @@ in his interest
 in his letter
 in his life
 in his mid fifties
+In his opinion
 in his own person, 
 in his own right
 in his own words
@@ -45936,6 +46291,7 @@ In like Flynn
 in like Flynn
 in like Flynn
 in like Flynn 
+in like manner
 In limbo
 In limbo
 in line
@@ -46024,6 +46380,8 @@ in moderation
 in moderation
 in modern history
 in modern memory
+in modern memory
+in modern society
 in modern society
 in Monopoly
 In mortal danger
@@ -46057,13 +46415,19 @@ in my diary
 in my dreams
 in my duty
 in my ear
+in my entire life
+In my experience
 in my experience
+In my eyes
 in my face
 in my family
 in my favour
 In my garden, the plum tree plum-trees and the plumbs plumb
 In my honest opinion
+In my honest opinion
+In my honest opinion
 In my house, I had three chairs: one for solitude, two for friendship
+In my humble opinion
 in my humble opinion
 in my humble opinion
 in my life
@@ -46083,6 +46447,7 @@ In my minds eye
 in my minds eye
 in my name
 in my name
+In my opinion
 IN MY OPINION
 In my opinion
 In my opinion
@@ -46094,13 +46459,16 @@ in my opinion
 in my opinion
 In my opinion 
 In my own work
+In my personal experience
 in my personal opinion
+In my personal view
 in my place
 in my place
 in my power
 In my room the carpet is grey
 in my thoughts
 in my time
+In my view
 in my view
 In my view
 in my view
@@ -46193,6 +46561,7 @@ in opposition to the
 in or out 
 in orbit
 in order to
+in order to
 In order to
 in order to
 in order to
@@ -46211,6 +46580,7 @@ in origin
 in origin
 in origin
 In other cases
+in other words
 In other words
 In other words
 In other words
@@ -46227,6 +46597,7 @@ in our life
 in our lifetime
 in our lifetime
 in our messaging 
+In our opinion
 in our place
 in our place
 in our thoughts
@@ -46266,6 +46637,8 @@ in particular
 in particular
 in particular
 in particular
+in particular
+in partnership with
 in partnership with
 in partnership with
 in partnership with
@@ -46296,6 +46669,7 @@ In pieces
 in pieces
 in pieces
 in pieces
+in place
 in place
 in place
 in place of
@@ -46415,6 +46789,7 @@ in quick sequence
 in rags
 in range of
 in range of
+in rapid succession
 in reaction to
 in reaction to 
 in readiness for
@@ -46422,6 +46797,7 @@ in readiness for
 in readiness for
 in readiness for
 in real time
+in reality
 in reality
 in reality
 in reality
@@ -46604,6 +46980,7 @@ in sharp contrast with
 In shock
 In shoes
 in short
+in short
 In short
 In short
 In short
@@ -46630,6 +47007,7 @@ in sight
 in sight of
 in sight of
 in sight of
+in significant number
 in silence
 In silence
 In silence
@@ -46640,6 +47018,7 @@ in similar circumstances
 in similar conditions
 in similes
 in simple sentences
+in simple terms
 in simple terms
 in simple terms
 in single figures
@@ -46658,6 +47037,7 @@ in small change
 in small change
 in small print
 in society
+in society
 in socks and sandals
 in socks and sandals
 in socks and sandals 
@@ -46675,6 +47055,7 @@ in some domain
 in some kind of repetition
 in some rarer cases
 in some sense
+in some way
 In some way
 In some way
 in some way
@@ -46690,6 +47071,7 @@ in space
 in space
 In spades
 in spectacular style
+in spite of
 in spite of
 in spite of
 in spite of
@@ -46769,6 +47151,7 @@ in such a way that
 In such a way that
 in such cases
 in sufficiently focussed
+in summary
 In summary, it has been shown from this review that
 in summer
 in sun or snow
@@ -46826,6 +47209,7 @@ in tens
 in tepid terms
 in tepid terms
 in terms of
+in terms of
 In terms of
 in terms of
 in terms of
@@ -46844,6 +47228,7 @@ in terrible trouble
 in terror
 in terror
 in terror
+in that case
 In that case
 in that case
 in that case
@@ -46898,6 +47283,7 @@ in the back of the car
 in the back row
 in the back row
 in the background
+in the background
 in the backside
 in the backstreets of
 in the backyard
@@ -46918,6 +47304,7 @@ in the beginning
 In the beginning 
 In the beginning of the
 In the beginning, came the event, then, the word, then, the idea Is a word an event
+In the belief of
 in the belief that
 in the belief that
 in the belly of The beast
@@ -46939,6 +47326,7 @@ in the blood
 In the blues
 in the book
 in the books of account on a
+in the bosom of
 In the box-seat
 in the box-seat
 in the brain
@@ -46976,6 +47364,7 @@ In the catbird seat
 in the catbird seat
 in the cemetery
 in the centre
+in the centre of
 in the centre of
 in the centre of
 in the centre of a
@@ -47075,6 +47464,7 @@ In the dictionary
 in the directory
 in the dirty depths of
 in the distance
+in the distance
 In the distance
 in the distance
 in the distance
@@ -47107,6 +47497,7 @@ in the driving rain
 in the dumps
 in the dying days of
 in the early
+in the early days
 in The early days of Their relationship
 in the early days of their relationship 
 in the early evening
@@ -47147,6 +47538,7 @@ in the event of
 in the event of
 in the event of
 in the event of 
+in the event that
 In the event that
 In the event that 
 In the ever-widening gyre, the falcon cannot hear the falconer
@@ -47179,12 +47571,15 @@ In the field of various definitions of are found
 In the field of various definitions of are found
 In the fields of observation, chance favours only the prepared-mind
 In the fight between the world and you, back the world
+in the final analysis
 in the firm belief that
 in the firm belief that
 in the first
 in the first gulf war
 In the first one, insight meditation, he does not
 in the first part of
+in the first place
+in the first place
 in the first place
 in the first place
 in the first year of the
@@ -47213,6 +47608,7 @@ in the forefront
 in the forefront
 in the forefront of
 in the forefront of
+in the foreground
 in the foreseeable future
 in the foreseeable future
 in the foreseeable future
@@ -47289,6 +47685,7 @@ in the hope of
 in the hope of
 In the hope of 
 in the hope of not
+in the hope that
 In the Hot Seat
 in the immediate vicinity
 in the individual components of The collocation
@@ -47329,6 +47726,7 @@ in the light of
 in the light of
 in the light of
 in the light of
+in the light of
 in the light of later
 in the light of later experience
 in the light of the
@@ -47350,6 +47748,7 @@ In the literature, has been associated with
 In the literature, the term tends to be used to refer to
 In the literature, the term tends to be used to refer to
 In the lobby
+in the long run
 in the long run
 in the long run
 In the Long Run
@@ -47381,10 +47780,12 @@ in the meantime
 in the meantime
 in the meantime
 in the meantime
+in the meantime
 in the memorandum of association
 in the mess of
 in the mid sixties
 in the mid sixties
+in the middle
 in the middle
 in the middle 
 In the Middle Ages
@@ -47521,6 +47922,7 @@ in the open
 in the open
 in the open
 in the open
+In the opinion of
 In the opinion of the speaker 
 in the opposite direction
 in the order book
@@ -47632,6 +48034,7 @@ In the Same Boat
 In the same boat
 in the same boat
 in the same direction
+in the same fashion
 in the same place
 in the same situation 
 in the same vein
@@ -47838,6 +48241,7 @@ in theatre
 in their favour
 in their heyday
 in their life
+In their opinion
 in their place
 in their place
 In their private life
@@ -47864,6 +48268,7 @@ in thickening mist
 in thickening mist 
 in thinking that
 in this capacity
+in this case
 in this case
 in this day and age
 in this day and age
@@ -47917,6 +48322,7 @@ in time for
 in time for
 in time for
 in time for
+in time for 
 in time for 
 in time with
 in time with 
@@ -48071,6 +48477,8 @@ in vain
 in various forms
 in various shapes and sizes
 in vast quantities
+in view of
+In view of
 In view of
 In view of
 in view of
@@ -48169,6 +48577,8 @@ inappropriately inharmonious
 inappropriately inharmonious 
 inarticulate things
 inasmuch as
+inasmuch as
+inasmuch that
 Inasmuch that
 inasmuch that
 inasmuch that
@@ -48204,6 +48614,7 @@ includes all other
 includes no further
 including a long haul
 including a long haul
+including all 
 including all but
 including dialects and kids language
 including oxymoron contains certain collocations 
@@ -48319,6 +48730,7 @@ indebted to
 indebted to
 indecent proposal
 indecision and lack of resolution
+indeed so
 Indeed so
 indeed so
 indeed so,
@@ -48370,7 +48782,7 @@ Industry, perseverance and frugality make fortune yield
 inertia and excitement and remains balanced on its own
 inexpensive present
 inextricably linked
-inextricably linked
+inextricably linked to
 infantry fighting
 infantry fighting
 infantry fire
@@ -48380,7 +48792,7 @@ Infer from
 inferior or superior
 inferior or superior
 Inferior to
-inferior to
+inferior to 
 inferior to a
 inferior to the
 inferiority or superiority
@@ -48402,7 +48814,7 @@ inflamed the situation
 Inflammatory language
 Inflate or fill with air
 inflexible attitude
-inflexible underneath Iron fist in a velvet glove is the full form 
+inflexible underneath 
 inflict damage
 inflict pain on 
 influence on
@@ -48427,7 +48839,7 @@ information about
 Information about
 information about the company
 INFORMATION on
-Information on
+Information on 
 information power in one
 information power in one place
 information stored
@@ -48440,7 +48852,6 @@ informed them about
 infotech will give us
 Infra dig
 infringement of discipline
-ing an apology
 ing forms don't escape
 ing forms don't escape
 ingenious technique
@@ -48573,11 +48984,13 @@ instant impact
 instantly done
 instantly finished
 instantly knew
+instantly solved
 instead of
 Instead of
 Instead of a
 instead of a jam pot
 instead of a piece of cheese
+instead of all 
 instead of be proud of what you've done
 instead of being
 instead of doing
@@ -48909,6 +49322,7 @@ Irish shift
 Irish twins
 Irishman's buggy
 Irishman's turkey
+Iron fist in a velvet glove 
 Iron hand in a velvet glove
 Iron hoof
 Iron maiden
@@ -48968,6 +49382,7 @@ is arguably the most important
 is available for
 is being
 is being done
+is believed to
 is better than
 is called 
 is called a prosecution
@@ -48983,6 +49398,7 @@ is concerned
 is contrary to
 is critical of the tendency to compartmentalise
 Is cutting off the head a cure for a headache
+is deemed
 is defined by
 is defined by the
 is different from in a number of respects
@@ -48991,6 +49407,7 @@ Is everything OK
 is expected to
 is famous for
 is far from clear whether
+is feared
 is generally assumed to play a role in
 is generally classified into two types
 is generally seen as a factor strongly related to
@@ -49002,6 +49419,7 @@ is hallowed ground all who lie
 is hardly equipped to deal
 is hardly equipped to deal with
 Is he in the kitchen
+is held
 is home to
 is in arrears
 is in charge of
@@ -49017,6 +49435,7 @@ is it fact or fiction
 Is it going to rain today
 Is it hers
 Is it OK if
+Is it ok if I jump in for a moment
 Is it OK if I use your dictionary
 is it possible
 Is it really
@@ -49068,6 +49487,7 @@ is one of the most
 is only a step
 is only one of many factors that help to determine the quality of
 is only two as is for fear of
+is paid for
 is perfect for
 is preferred over
 is preferred to
@@ -49077,6 +49497,7 @@ Is purity to be regained or attained
 is referred to as
 is rising Ties
 is running out
+is said
 Is Saturday OK
 is set to soar
 Is she all right
@@ -49084,6 +49505,8 @@ is signed by
 Is silence the absence or the opposite of noise
 is similar to that
 is so clear or universal
+is supported by
+is supposed to
 is supposed to
 is sure to
 Is that a degree angle
@@ -49163,6 +49586,7 @@ Is this important
 Is this on sale 
 Is this your book
 Is this your first time here in 
+is thought to
 is through
 is through insight meditation to observe or concentrate upon impermanence,
 Is time just a construct or a tool of the mind
@@ -49172,6 +49596,7 @@ is to say that
 is true or i am
 is true or i am a
 is unconsciously picking his words from The vast array of vocabulary available
+is unheard of
 is used by 
 is used for
 is used for
@@ -49251,6 +49676,7 @@ It appears that in many areas remount officers paid too much for horses rather t
 It appears that we seldom tell the truth to our peers
 it appears to
 It appears to 
+It appears to me that
 It avoids having to use the courts to settle
 it beats me
 it beats me that
@@ -49361,6 +49787,7 @@ it doesn't work like that
 It doesn’t add up
 It doesn’t count
 It doesn’t make any difference to me
+It doesn’t make any difference to me
 it doesn’t matter
 It escaped my memory
 it feels like The future
@@ -49408,6 +49835,7 @@ It goes without saying
 It goes without saying
 it goes without saying
 It goes without saying that
+It goes without saying that
 it goes without saying that
 It goes without saying that 
 It guarantees
@@ -49431,6 +49859,7 @@ It has now been replaced with
 It has opening hours from
 it has to be planned and managed well
 it hurt
+it hurt like hell
 it hurt like hell
 it hurt like hell 
 it illustrates
@@ -49524,6 +49953,7 @@ it is clear
 it is clear that
 It is common knowledge that
 It is Consequently,
+It is considered
 it is difficult to
 It is difficult to conceive of something more difficult than continued and unrelenting
 It is difficult to make someone change the way they do
@@ -49545,6 +49975,8 @@ it is far from clear
 it is far from clear whether
 It is Friday morning
 It is futile to seek satisfaction in the unsatisfactory
+It is generally accepted that
+It is generally accepted that
 It is given when someone dies
 It is good
 It is good fishing in troubled waters
@@ -49636,8 +50068,10 @@ It is proof of the legal
 it is remarkable that 
 It is right
 it is rumoured
+It is rumoured that
 it is rumoured that
 it is rumoured that 
+It is said that
 it is said that
 It is so
 it is solved by walking
@@ -49668,6 +50102,7 @@ It is their house
 it is therefore
 it is therefore
 it is therefore
+It is thought that
 it is thought that
 it is through research that 
 It is time to go now
@@ -49853,6 +50288,7 @@ It seems such a pity that Noah did not miss the boat
 it seems that
 It seems that He' understanding of the framework is questionable
 It Seems to
+It seems to me that
 it seems to me that
 It sharpens to the finest degree man’s powers of observation
 It should be fun
@@ -49898,6 +50334,7 @@ it stirs the soul
 it strikes me that
 it strongly suggests
 it struck me that
+it suddenly dawned upon me
 it suits me down to The ground
 It takes a letter days to get to England
 it takes a long time to
@@ -50149,6 +50586,7 @@ It would probably be better
 It would seem so
 it would seem so
 IT WOULD SEEM THAT
+It would seem to me that
 it would seems so 
 it would take
 it, all the past as well as the future
@@ -50493,6 +50931,7 @@ it’s clear to see
 It’s coming from Reading
 It’s Dawson
 It’s dead easy
+it’s early days
 It’s early days yet
 It’s easier than drinking water through a straw
 It’s easier to deal with effects of bad actions than it is to is avoid our original
@@ -50550,6 +50989,7 @@ It’s not worth
 It’s nothing serious
 it’s now or never
 It’s now too late
+It’s obvious to me
 It’s on the tip of my tongue but
 It’s pay
 it’s plain to see
@@ -50585,6 +51025,7 @@ It’s too late
 It’s too late for
 It’s too late to cover the well when the child has already fallen in
 It’s totally wrong to infer that one kind of work is inferior to another
+It’s unjustifiable to say that
 it’s up to
 it’s up to her
 it’s up to him
@@ -50664,6 +51105,7 @@ Jack of all trades
 Jack of all trades, master of none
 Jack of all trades, master of none
 Jack Palancing
+Jack Robinson
 Jack Robinson
 Jack The Lad
 Jack the Lad
@@ -51085,6 +51527,7 @@ Just a minute ago
 Just a minute ago
 Just a minute, madam
 just a moment of your time
+Just a moment, I like to add something here
 Just a quick line to say
 Just a sec 
 Just a second
@@ -51095,6 +51538,7 @@ just about
 just about
 just about
 just about
+just about 
 just about right
 just about right
 just about right
@@ -51287,6 +51731,7 @@ just suppose that
 Just suppose that
 just suppose that
 just tell me
+just the one
 just the ticket
 just the ticket
 just think
@@ -52037,6 +52482,7 @@ killed in combat
 killed in the carcrash
 killed off
 killed the golden goose
+killed The king
 killed the time
 killed time
 killer Calm conditions
@@ -52715,6 +53161,7 @@ last man standing
 last March
 last month
 last night
+last night
 last of all
 last on The list
 last stage of The day
@@ -52734,6 +53181,7 @@ last-ditch effort
 last-ditch effort
 last-minute
 last-minute changes
+lasting encounter
 lasting for ever
 lasting legacy
 lasting legacy
@@ -52741,6 +53189,7 @@ lasting legend
 lasting relationship
 lasting relief
 lasting relief
+lasting trauma
 Late at night
 late at night
 Late at night
@@ -52785,6 +53234,7 @@ later in the day
 later in the day
 later made a part of 
 later on
+later on 
 later president of The US
 later than usual
 Later that day
@@ -53448,6 +53898,7 @@ left an indelible impression three times assonance
 left aside
 left behind
 left behind
+left behind 
 left by the roadside
 left dying
 left dying
@@ -53656,6 +54107,7 @@ Lessons in Love by Level
 lessons to learn
 Lessor the person who lets a property by lease
 lest we forget
+lest we forget
 Let a thousand flowers bloom
 let alone
 let alone
@@ -53723,6 +54175,7 @@ let loose on
 let me
 let me add 
 Let me check my calendar 
+Let me finish what I have to say first
 Let me get back to you 
 let me give a word of w
 let me give you 
@@ -54102,6 +54555,7 @@ Lies, damned lies and statistics
 life after loss
 Life and body are like a big, water bubble, just about to burst
 life and death
+life and death
 life and legacy
 life and legacy
 life and legacy 
@@ -54447,6 +54901,7 @@ like I said
 like I said
 like I said
 like I said
+like I said
 like I said before
 like I said before
 like I said before
@@ -54470,6 +54925,7 @@ like most people
 Like mother, like daughter
 like music to my ears
 like music to my eras 
+like never before
 like never before
 like never before
 like never heard before
@@ -54821,6 +55277,7 @@ live a healthy lifestyle
 Live a lie
 live a lie
 live a little
+live and die
 live and learn
 Live and learn
 Live and learn
@@ -55457,12 +55914,14 @@ looked out for
 looked out over
 looked over
 looked up to
+looked up to
 Looker-on
 Lookers-on see more than players
 Looking after children can be hard work
 looking around
 looking at
 looking at
+looking at the sky
 looking away from
 Looking back
 Looking back 
@@ -55512,6 +55971,8 @@ looks the part
 looks up to
 loom large
 loom large
+looming large
+looms large
 loony lot
 loop Huge queues
 loop manoeuvre
@@ -55612,6 +56073,7 @@ Lose the Thread
 lose their sense
 lose time
 lose too much time
+lose touch
 Lose Touch
 lose touch with
 lose track of
@@ -55654,6 +56116,7 @@ losing her job
 losing his job
 losing interest
 losing its lustre
+losing touch
 Losing weight
 loss of life
 loss of life
@@ -55673,6 +56136,7 @@ Lost a lot of weight
 lost a lot of weight
 lost all his money
 lost all his money
+lost all hope
 lost all hope
 lost all hope
 lost all sense of
@@ -55779,6 +56243,7 @@ lost their lives
 lost time
 Lost time is never found again
 Lost time is never found again
+lost touch
 lost We almost
 lost weight
 lost weight
@@ -56056,6 +56521,7 @@ lurking under the surface
 lurking under the surface 
 luscious lips A lingering legacy
 lush looking
+lush suburb
 Lust and desire bog man down in a swamp where he may become stuck for years
 lust and lechery
 lust and lechery
@@ -57126,6 +57592,7 @@ man's inhumanity to man
 man's man
 Man’s inclination to injustice makes democracy necessary
 Man’s reach should exceed his grasp
+manacled to
 Manage despite the lack of
 manage his money
 manage one's
@@ -57184,6 +57651,7 @@ Manic Monday
 manic Monday
 manicured magnificence
 Manifest plainness Embrace simplicity Have few desires
+manifesto title for the General Election 
 manipulating The market
 Manipulation causes consternation
 manned by a policeman
@@ -57622,6 +58090,7 @@ marked contrast to
 marked target 
 marked the moment
 marked the target 
+markedly different
 markedly more
 market basket
 market basket
@@ -57880,6 +58349,7 @@ May I have another piece of cake
 May I look at something else
 may I not shrink from my purpose
 May I point out 
+May I say something here
 May I sit here
 May I speak with John Smith 
 may I suggest 
@@ -57926,6 +58396,7 @@ me the opportunity to receive
 me the opportunity to receive feedback
 Me Time
 me to brainwash you for
+Me too
 me with an identity 
 Mea culpa
 mea culpa
@@ -59093,6 +59564,8 @@ more than a few dozen people
 more than a million people
 more than could be hoped for
 more than ever
+more than ever
+more than ever before
 More than expected
 more than expected
 More than expected 
@@ -59107,6 +59580,7 @@ more than that
 more than that
 more than they bargained for
 more than we bargained for
+more than words can say
 more to come
 More to do but we're 
 more to The matter
@@ -59153,6 +59627,7 @@ Most cases are
 Most charities are registered with the
 Most children like to blow bubbles
 most combinations are The result of repetition of phonemes or stress either 
+most compelling evidence
 Most crimes take place at night
 most criminal cases involving
 most fundamental characteristic of this
@@ -59202,6 +59677,7 @@ mother fucker
 Mother Mary
 mother milk
 Mother Nature
+mother of 
 Mother of all
 Mother of parliament
 mother of pearl
@@ -59577,6 +60053,7 @@ must be a Member of Parliament
 must be joking
 must be nuts
 must be relevant to the case but even some relevant
+must be remembered
 must be taken into account
 must be that
 must be thinking 
@@ -59709,6 +60186,7 @@ My husband asked if I wanted any coffee
 My husband bought me a rose today
 My husband caught five small fish
 my husband has died
+My impression is that
 My kids whined 
 my kingdom for a horse
 My landlady cooks awful meals
@@ -59887,6 +60365,7 @@ named and numbered
 named and numbered
 named and numbered 
 named by
+namely when 
 names and places
 names and places
 names and places 
@@ -59923,6 +60402,8 @@ narrow-minded attitude
 narrow-minded view
 narrowed the gap
 narrowing the gap
+narrowly avoided
+narrowly avoiding
 Narrowly or barely escaping a disaster
 nasal spray
 nasty bastard
@@ -60057,6 +60538,7 @@ NEAR me
 near normal
 near or far
 Near the edge
+near the end 
 Near the end of a supply of something
 Near the fire
 Near the knuckle
@@ -60065,6 +60547,7 @@ near to the truth
 near-alliteration like
 near-assonance cases like
 near-hit 
+nearby the
 nearer to
 nearer to
 nearest and dearest
@@ -60213,6 +60696,7 @@ neither civilian or military
 neither confirmed nor denied
 neither confirmed nor denied
 neither confirmed nor denied 
+Neither do I
 Neither fire nor wind, nor birth or death, can erase our good deeds
 Neither fish nor flesh
 Neither fish nor flesh, nor good red herring
@@ -60356,6 +60840,7 @@ Never cast dirt into that fountain of which you have sometime drunk
 never ceased to
 never ceases to
 never ceases to amaze me
+never come back
 never completely given up the hope, however, that, somewhere out there in the world,
 Never consult a doctor who has never been ill himself
 never crossed my mind
@@ -60541,6 +61026,7 @@ never-ending
 Never-never land
 Never, never, never give-up
 nevertheless
+nevertheless
 Nevertheless, the strategy has not escaped criticism from governments, agencies and academics
 Neville Chamberlain
 new and elusive
@@ -60606,8 +61092,10 @@ next session
 Next time
 next to
 next to 
+next to a
 next to nothing
 next to nothing 
+next to the
 Next-door neighbours
 Next-door neighbours
 Next, sustained concentration anchors the attention on the object and holds it there never was any
@@ -61250,7 +61738,9 @@ No, I don’t think so
 No, I don’t this it’s a good idea
 No, I suppose not
 No, I’d rather not
+No, I’m not sure about that because
 No, it isn’t mine
+no, not again 
 No, not at all
 No, of course not
 No, really, I must be off
@@ -61269,6 +61759,7 @@ Nobody can make you do anything
 Nobody can stop what you have been doing to yourself but you
 Nobody ever tells the whole truth about himself
 Nobody has a more sacred obligation to obey the law than e
+nobody in sight
 nobody in the world
 nobody in their right mind
 nobody in their right mind
@@ -61388,6 +61879,7 @@ none too happy about it
 none too pleased about it
 none whatsoever
 none worse
+nonetheless
 nono
 nonsense names
 noon and night
@@ -61656,6 +62148,7 @@ not little
 Not live longer than
 not living in a state of grace
 not long ago
+not meant for
 not meant to matter
 not meant to matter 
 not mentioning
@@ -61677,6 +62170,7 @@ not nearly enough
 not nearly enough
 not nearly enough
 not nearly enough
+Not necessarily
 not necessarily
 Not necessarily
 Not necessarily
@@ -61704,6 +62198,7 @@ not one bit of
 Not One's Cup of Tea
 Not only
 not only
+not only 
 Not only 
 Not only but also
 not only that
@@ -61818,6 +62313,7 @@ Not to let somebody down, keep one’s promise
 not to mention
 not to mention
 not to mention
+not to mention
 Not to mention
 Not to mention
 not to mention
@@ -61863,6 +62359,7 @@ not without
 not without
 not without
 not without
+not without
 not without any
 not words
 not worldwide warming but a word like The worldwide web is still based on The oral cohesion However
@@ -61879,6 +62376,7 @@ not wrong about
 Not yet
 not yet
 Notable slogan of the May ' demonstrations in France
+notably so
 Notary a person
 Note down
 note for note
@@ -62007,6 +62505,7 @@ noting that they had been out of power in Congress since this slogan asked voter
 Notorious for
 notorious for
 Notre Dame's tower
+notwithstanding
 Notwithstanding
 noughts and crosses
 noughts and crosses
@@ -62094,6 +62593,7 @@ Now study These four mindmaps to get some idea of how collocations are commonly 
 Now study this gird as a model case
 Now study this grid for size expressions
 Now take The issue of size We often hear of
+now that
 Now that
 Now that I come to think of it
 now that I know
@@ -62281,6 +62781,7 @@ obvious of
 Obviously many compounds exist containing The word double as in
 obviously many of These are combinations with a to infinitive
 Obviously so
+Obviously so
 Obviously, not all good quotations will be limited to short, one-liners, so we have added to
 occasion if we keep our
 occasion if we keep our fears
@@ -62288,6 +62789,7 @@ occasion is offered
 occasion one's favourite place
 occasional calls
 occasional calls
+Occasionally done
 occasionally hazy
 occasionally hazy
 Occasionally or not very often
@@ -62399,13 +62901,16 @@ of comparable quality
 of constructions as itemised or
 of constructions as itemised or quantifying expressions
 Of course
+Of course
 of course
 Of course he is
 of course I asked what The problem was
 of course not
 of course so
+of course so
 Of course that
 of course,
+of course, but
 of court and can't be traced
 of death if you can
 of deceiving
@@ -62845,6 +63350,7 @@ oil companies and tobacco producers
 Oil spills' costs
 OK by me
 OK with me
+Ok, that’s convincing
 Okay for now
 Okay then
 Okay with me
@@ -62865,6 +63371,7 @@ old and wise
 old and wise
 old and wise
 old and wise
+old and wise
 Old as Methuselah
 Old as the hills
 old as the hills
@@ -62878,6 +63385,7 @@ old devotions
 old dough
 old dough
 old English fairytale
+old enought to
 Old Father Thames
 Old father time
 Old Flame
@@ -63063,6 +63571,7 @@ on a trip
 on a trip 
 on a trip to
 on a trust for the benefit of people decided by
+on a war footing
 on a wider side
 on a wider side
 On a Wing and a Prayer
@@ -63108,6 +63617,7 @@ on and off
 on and off
 on and off 
 on and on 
+on another occasion
 on appearance 
 on appointment
 on approval
@@ -63127,6 +63637,7 @@ on bail
 on bail
 on bail
 on bail
+on balance
 on balance
 on balance
 on balance
@@ -63222,6 +63733,7 @@ on doctor’s orders
 on doctor’s orders
 on doctors orders
 on doctors orders
+on draught
 on draught
 on duty
 on duty
@@ -63625,6 +64137,7 @@ on suspicion of
 on suspicion of
 on suspicion of
 on tables
+on tap
 On tap
 On tap
 on tap
@@ -63645,6 +64158,7 @@ on that day
 on that fateful day
 on that occasion
 on that starry starry night
+on that subject
 on that very day
 on that very moment
 on the agenda
@@ -63755,6 +64269,9 @@ On the coast
 on the comer of
 on the completion of
 on the completion of the
+on the condition that
+on the contrary
+On the contrary
 On the contrary
 on the contrary
 on the contrary
@@ -63867,6 +64384,7 @@ on the hunt for
 on the increase
 on the increase
 on the increase
+on the inside 
 on the internet
 on the job
 on the job
@@ -63889,6 +64407,7 @@ on the lookout
 on the lookout
 on the lookout for
 on the lookout for
+on the loose
 on The mantelpiece
 On the mend
 On the mend
@@ -63900,6 +64419,7 @@ on the money
 on the move
 on the move
 on the move
+on the negative side
 on the news
 on the news
 On The next page 
@@ -63925,6 +64445,7 @@ on the orders of
 on the origin of species
 on the other
 on the other h it
+on the other hand
 On the other hand
 on the other hand
 on the other hand
@@ -63988,6 +64509,7 @@ On the playing field
 on the point of
 on the point of
 on the point of
+on the positive side
 on the premises
 on The previous page
 on The principle of sound may be 
@@ -64096,6 +64618,7 @@ on the strength of
 on the stroke of
 on the stroke of
 on the stroke of
+on the subject of
 On the subject of
 on the subject of
 on the surface
@@ -64170,6 +64693,7 @@ on the way to recovery
 On the weekend
 On the weekend
 on the whole
+on the whole
 On the whole
 on the whole
 on the whole
@@ -64204,6 +64728,7 @@ on thin ice
 On this moment hangs eternity
 on this occasion
 on this occasion
+on this side
 on this very day
 On time
 On time
@@ -64218,6 +64743,7 @@ On time for
 on tiptoe
 on tiptoe
 on tiptoe
+on top of
 On top of
 on top of
 on top of
@@ -64227,6 +64753,7 @@ on top of
 On top of 
 on top of 
 on top of 
+on top of all
 on top of all
 on top of the
 on top of the other
@@ -64311,6 +64838,7 @@ once and for all
 once and for all
 once and for all
 once and for all
+once before
 Once bitten twice shy
 once bitten twice shy
 once bitten twice shy
@@ -64377,7 +64905,7 @@ once it's over
 once more
 once more
 once more
-once more
+once more 
 Once more unto the breach, dear friends, 
 Once or twice
 once or twice
@@ -64444,18 +64972,19 @@ one could study a key word and see which words collocate with it as far as rhyme
 One criticism of much of the literature on is that
 One crowded hour of glorious life is worth age without a name
 one day
-one day
-one day
 one day 
 One day at a time; one thing at a time
+one day in
 one day in your life
+one day when
 one day wonder
 One death is a tragedy; a million deaths is a statistic
 one debut Make available Make
 One drop of poison infects the whole tun of wine
 One example for legalese as illustration
 One fire drives out another
-one foot in the
+one foot in it
+one foot in the grave
 one foot in the grave
 One foot in the grave
 one foot in the grave
@@ -64859,6 +65388,7 @@ Only on the condition that
 Only on the condition that 
 only once
 only once or twice
+only one word 
 Only part of
 only part of
 only partly
@@ -64892,6 +65422,7 @@ only to be cut
 only to be cut
 only to be cut down
 only to be cut down by
+only to find
 only to find that
 only to find that the
 Only two things are necessary on the path to Nirvana: to start and to continue
@@ -64921,6 +65452,7 @@ Open confession is good for the soul
 open doors
 Open fire
 open fire
+open for discussion
 Open it and see
 Open not your door when the devil knocks
 Open or begin to use
@@ -65012,6 +65544,7 @@ opposing positions
 opposing positions
 opposite of bona fide
 opposite of every extreme helps to bring perspective into balance
+opposite to
 Opposition brings concord Out of discord comes harmony
 Opposition party
 opposition party
@@ -65032,6 +65565,7 @@ or adverb verb
 or alternatively
 or alternatively
 or any of these
+or any other
 or any other
 or any other
 or anything else
@@ -65123,8 +65657,8 @@ or so it seems
 or so it seems
 or so it seems 
 or so it would
-or so it would
 or so it would appear
+or so it would seem
 or so people say
 or so we think
 or some kind of continuation
@@ -65381,11 +65915,10 @@ Out loud
 Out loud
 out loud
 out loud
-Out of
-out of
-out of
 out of
 out of 
+out of 
+Out of a
 out of a job
 out of a job
 out of a job
@@ -65609,6 +66142,7 @@ out of stock
 out of style
 out of the
 out of the
+out of the
 Out of the area
 Out of the area
 out of the bag 
@@ -65673,6 +66207,7 @@ out of the way
 Out of the way
 Out of the Way
 out of the wind
+out of the woods
 out of the woods
 out of the woods
 Out of the Woods
@@ -65870,12 +66405,14 @@ over time
 Over time 
 Over time 
 over time 
+over to you 
 over twenty combinations and socialist
 over unpaid debts and negligence claims
 Over whom
 Over-egg the pudding
 Overall effect
 Overall effect
+overall impression
 Overall, these cases support the view that
 Overblown area
 overbooked there were too many passengers and not enough seats
@@ -65925,7 +66462,9 @@ Owed to
 owed to the bank if the bank's customer fails to pay
 owed to them in full settlement
 owes money 
+owing an apology
 owing money 
+owing to
 owing to
 owing to 
 Owls' eyes
@@ -66443,6 +66982,8 @@ particularly problematic
 particularly proud
 particularly proud
 particularly significant
+particularly since
+particularly so
 particularly so
 particularly so
 particularly so
@@ -67546,7 +68087,11 @@ personally appointed
 personally appointed
 personally appointed
 personally involved 
+Personally, I believe
 Personally, I think
+Personally, I think
+Personally, I think not
+Personally, I think that
 Personalty another word for personal property
 Personation pretending to be someone you are not
 Personnel carrier
@@ -67643,6 +68188,7 @@ photofit but Then again its cine pictures
 photofit picture
 photographers fair
 photographers fair 
+photographic memory
 Phrasal Verb
 phrasal verb
 phrasal verb
@@ -67767,6 +68313,7 @@ pick up the pieces
 Pick Up the Slack
 Pick Up the Tab
 pick your brain
+pick your brain
 Pick your nose
 pick your wits
 pick your wits
@@ -67795,6 +68342,7 @@ Picture paints a thousand words
 Picture paints a thousand words
 Picture paints a thousand words 
 picture palace
+picture perfect
 picture perfect
 picture postcard
 picture that
@@ -68595,6 +69143,7 @@ plural possessive nouns
 Plural Possessive Nouns
 Plural version
 plurality automatically produces alliteration at The end of The words
+pluribus unum
 PM David Cameron's glamorous wife
 PO Box
 PO-Box
@@ -68635,6 +69184,7 @@ point in time
 Point of No Return
 point of view
 Point of view
+point often overlooked
 Point Out
 Point out
 point out
@@ -69388,6 +69938,7 @@ precipitating the problem
 precise plan
 precise planning
 precise provenance
+Precisely
 precisely aligned
 precisely aligned
 precisely aligned
@@ -69552,6 +70103,7 @@ presented with
 presented with
 presented with
 presently so
+presently so
 presents and parcels
 presents and parcels
 presents and parcels
@@ -69649,6 +70201,7 @@ pretty appalling
 Pretty awesome
 pretty busy
 pretty busy
+pretty busy
 pretty busy 
 Pretty cheesed off
 pretty creepy
@@ -69690,6 +70243,7 @@ Pretty kettle of fish
 pretty little princess
 pretty miserable
 pretty miserable
+pretty much
 pretty nippy
 pretty painful
 pretty painful 
@@ -69891,6 +70445,7 @@ prior approval
 prior ot
 prior permission
 prior purchase
+prior to
 prior to
 PRIOR to
 prior to
@@ -70459,6 +71014,7 @@ provided by
 provided by a contractor
 provided protection
 provided space
+provided that
 Provided that
 Provided that
 provides a basis for
@@ -70469,6 +71025,7 @@ providing or receiving good payment
 providing that
 provincial place
 proving his point
+proving its worth
 proving once and for all
 proving once and for all
 proving the truth 
@@ -70648,6 +71205,7 @@ Pull Strings
 pull The bill
 pull the lever
 pull the other one
+pull the other one
 PULL the other one	
 Pull the other one 
 pull The plough
@@ -70678,6 +71236,7 @@ pull your leg
 pull your nose up
 pull your punches
 pull your punches
+pull yourself together
 Pull yourself together
 Pull Yourself Together
 Pull yourself together
@@ -71040,6 +71599,7 @@ Put into place
 put into place
 put into question
 put it across
+put it all together
 put it down to
 put it down to
 Put it in black and white
@@ -71342,6 +71902,7 @@ Put your thinking cap on
 put your trust in
 put your trust in
 put your trust in
+put your trust in
 Put yourself
 put yourself in 
 Put yourself in his position
@@ -71573,6 +72134,7 @@ quickly diminished
 quickly diminished 
 quickly diminished 
 quickly done
+quickly finished
 quickly finished 
 Quickly make a meal or something to eat
 quickly over
@@ -71714,6 +72276,7 @@ quite on the contrary
 quite on the contrary
 quite on the contrary
 quite on the contrary
+quite ordinarily
 quite possibly
 quite quick
 quite quick
@@ -71768,9 +72331,11 @@ race row
 race the case
 race the case
 racial discrimination
+racial discrimination
 Racial discrimination
 Racial discrimination
 Racial discrimination treating someone less favourably because of their
+racial segregation
 racing champion
 racing day
 racing game
@@ -72120,6 +72685,7 @@ rather bizarre
 rather bizarre
 rather bizarre
 rather blurry
+rather disappointing
 Rather fail with honour than by fraud
 Rather hot
 rather nice
@@ -72183,6 +72749,7 @@ reach a compromise
 reach a conclusion 
 reach a deal
 reach a deal 
+reach a decision
 Reach a decision
 Reach a large figure
 Reach a particular maximum amount, size, value,
@@ -72220,6 +72787,7 @@ reach up high
 reached a conclusion
 reached a consensus on it
 reached a deal
+reached a decision
 reached a speed
 Reached a stalemate
 reached an agreement 
@@ -72233,6 +72801,7 @@ reached the age of criminal responsibility
 reached the conclusion
 reached the peak
 reaches its peak
+reaching a decision
 reaching a speed of
 reaching above and beyond their roots
 reaching out
@@ -72759,6 +73328,7 @@ Referring to people, this definition
 Referring to the people who
 referring to the views of
 refers to
+refers to
 Refers to
 refers to 
 refers to services rendered at no charge
@@ -72832,6 +73402,7 @@ regarded by
 Regarding the
 Regarding the matter
 Regarding the matter 
+regardless of
 regardless of
 regardless of
 regardless of 
@@ -73628,7 +74199,7 @@ retain its shape
 retain one’s honour
 retain the title
 retain the title
-retain your tile
+retain your title
 retained its shape
 Retainer a payment to a barrister to act in a case
 retaining its title
@@ -73758,6 +74329,10 @@ Reverse the expected outcome of a game, usually from a losing position to a winn
 reverse turn
 reversed order 
 Reversion order
+revert to
+reverted to
+reverting to
+reverts to
 review the situation 
 Reviewed by
 reviewed by the High Court
@@ -73961,6 +74536,7 @@ right by the ocean
 right down
 Right down to
 Right from the beginning
+right from the start
 Right from the start
 right in front of us
 right in its place
@@ -74137,9 +74713,11 @@ risk assessment
 risk eviction
 risk eviction
 risk eviction
+risk fort
 risk it for a biscuit
 risk life and limb
 risk life and limb 
+risk of
 Risk of
 risk of loss by insuring part of the risk with another
 risk reduction
@@ -74872,6 +75450,7 @@ sad but true
 sad enough as it is
 sad fact
 Sad to
+sad to see
 sad truth 
 saddle soap
 saddle sore
@@ -74969,6 +75548,7 @@ said so
 said The spider to The fly
 said the spider to the fly
 said to
+said to be
 Said when someone has expressed a desire or opinion, meaning 
 sail away
 sail away
@@ -75784,6 +76364,7 @@ seating space
 seating space
 seating space 
 Second Banana
+second best
 second chance
 second class
 Second degree
@@ -75819,6 +76400,7 @@ secret site
 secret society
 secret spy
 secret spy
+secret stash
 Secret surveillance
 secretarial skills 
 secretive and silent
@@ -75982,6 +76564,7 @@ See to
 See to
 See to a
 see to it
+see to it forthwith
 see to the
 See we a man who is wise in his own conceit
 see what happens
@@ -76024,6 +76607,7 @@ seeing more and more
 seeing more and more 
 Seeing red
 Seeing red
+seeing what
 seek a deal
 seek a deal
 seek a deal 
@@ -76166,6 +76750,7 @@ seeping in
 seeping with sex
 sees the scenes 
 seethe big
+segregated from
 seize and squeeze
 seize and squeeze 
 seize into its beak
@@ -77661,10 +78246,12 @@ shoots and roots
 Shop around
 shop around
 Shop floor
+shop for
 shop till you drop
 Shoplifting stealing goods from a shop
 shopping as a hobby
 shopping as a hobby 
+shopping for
 shopping for shades
 shopping trolley
 shopping trolley
@@ -77733,6 +78320,7 @@ Shorthold tenancy a tenancy under which the law allows the landlord to
 Shortlisted for
 shortlisted for
 shortly after
+shortly before
 Shot Across the Bow
 Shot across the bows
 shot at
@@ -77902,6 +78490,7 @@ Shower with
 showing his emotions
 showing how 
 showing how They combine in different ways
+showing its worth
 showing no signs of slowing down
 showing off
 showing off her
@@ -78158,6 +78747,7 @@ significant signal
 significant signal
 significant signal 
 Significant suspicion
+significantly
 significantly different
 significantly different
 significantly different
@@ -78285,6 +78875,7 @@ similar to
 similar to preceding
 similar tradition
 similarly
+similarly so
 Similarly, he will discover there are no permanent facts of existence to grasp onto for
 Simmer Down
 Simon Go Back
@@ -78340,6 +78931,7 @@ sin and scandals
 Sin City
 Since Adam was a boy
 since birth
+since childhood
 since Christ
 since collocations are basically prefabricated chunks of language
 since it would result in 
@@ -78353,6 +78945,7 @@ Since the definition of varies among researchers, it is important to clarify how
 since the global financial crisis
 since the global financial crisis of
 since the tear
+since the war
 Since then
 Since then
 since then
@@ -78362,6 +78955,7 @@ since then
 since then
 since then
 Since then
+since then 
 Since then,
 Since this difference has not been found elsewhere it is probably not due to
 Since those days, these four economies have doubled their share of world production and
@@ -78527,6 +79121,7 @@ sit and wait
 sit and wait
 Sit back
 Sit back 
+sit back and relax
 Sit beside
 Sit Down
 Sit down
@@ -78977,6 +79572,7 @@ slogan of George W Bush's campaign during the presidential election
 Slogan of International Brigade in Spanish Civil War in reference to the Nationalist siege of Madrid
 Slogan of opponents of Russian President Vladimir Putin since
 Slogan of Ross Perot in his campaign in the presidential election Later adopted for the Reform Party
+slogan of the
 Slogan of the America First Committee against providing aid to Britain during World War II
 Slogan of the NSW Labour government of They were returned to office but defeated in a landslide in
 slogan of the Republican Party and William McKinley's campaign in the presidential election in support of the gold standard and protectionism
@@ -79094,6 +79690,7 @@ slowly but surely
 slowly but surely
 slowly but surely 
 slowly does it
+slowly emerging
 slowmo
 slug of luck
 sluggish stream
@@ -79333,6 +79930,7 @@ sneaking sneaky
 sneaking sneaky 
 sneaking suspicion
 sneaking suspicion 
+sneaky peak
 sneaky strategy
 sneaky strategy
 sneaky strategy 
@@ -79398,6 +79996,7 @@ So Arthur got a black eye
 So Arthur now has a car
 So Arthur was lucky for once
 So as not to disturb anyone
+so as to
 So as you sow, so shall you reap
 so be it
 so be it
@@ -79408,6 +80007,7 @@ So beautiful
 so close and yet so far
 So come and dine with ME instead
 so different from 
+So do I
 so early in the morning
 So easy to use, no wonder it's number one
 So far
@@ -79449,6 +80049,7 @@ so in the meantime
 so it seems
 so let's turn to 
 so long ago
+so long as
 So long as
 so long as ye both shall live
 so long as ye both shall live
@@ -79485,6 +80086,7 @@ So special
 so stupid 
 So sue me
 so sure
+so that
 so that
 so that it might
 so that radio stations started broadcasting warnings for motorists Unfortunately
@@ -79525,6 +80127,7 @@ So, correct me if I'm wrong
 So, he loses the job that gave him bread and butter
 So, to be perfectly clear, we both agree to
 So, unless I’m mistaken, you're asking us to
+So, you’re telling me
 So, your idea would be to
 soak in the sights
 soak The soil
@@ -79849,6 +80452,8 @@ Some people say
 some people say
 some people say
 some people say
+Some people say that
+Some people say that
 some people would argue
 some people would say
 some people would say
@@ -79887,6 +80492,7 @@ Some things you can choose,
 some time after
 some time ago
 some time before
+Some time later
 Some time later
 some time later
 some time to find the gap
@@ -80285,6 +80891,7 @@ somewhere between complicit and culpable
 Somewhere else
 Somewhere else
 somewhere else when the crime was
+somewhere in the region of
 somewhere near here
 somewhere near here
 somewhere out there
@@ -80331,6 +80938,7 @@ soon see about that
 soon settled into the routine of
 soon The rain a and it changed to a start
 soon to be
+sooner or later
 sooner or later
 Sooner or later
 Sooner or later
@@ -80388,6 +80996,7 @@ Sorry for arriving late
 Sorry for being late
 Sorry for being so late
 Sorry for being too late
+sorry for interrupting 
 Sorry for not
 Sorry for not
 Sorry for not
@@ -80406,6 +81015,7 @@ sorry to
 sorry to assume
 sorry to bother you
 Sorry to bother you but
+Sorry to cut you off, but
 sorry to disturb you
 sorry to hear
 Sorry to hear about
@@ -80414,13 +81024,16 @@ sorry to hear of
 Sorry to hear you’re not well
 Sorry to interrupt
 Sorry to interrupt, but
+Sorry to interrupt, but
 sorry to say
 sorry to say
 sorry to say 
 Sorry to see
 Sorry to trouble you but
+Sorry, but can you let me finish
 Sorry, but I think you've missed the point
 Sorry, but I'm afraid I need to
+Sorry, but I’m not done yet
 Sorry, I can't
 Sorry, I don’t quite understand
 Sorry, what was your name again
@@ -80697,6 +81310,7 @@ speak you
 speak your mind
 Speak your mind
 speakers stand
+Speaking for myself
 Speaking from experience
 speaking of which
 speaking on behalf of
@@ -80736,6 +81350,7 @@ specially selected
 specially selected
 specially selected
 Species of
+specific conditions
 Specific performance a court order to complete a contract
 specific position
 specific spectacle
@@ -80745,6 +81360,7 @@ specifically different
 specifically different
 specifically different 
 specifically efficient
+specifically so
 specified to
 Specify, especially in detail
 Specify, institute, enact, assert firmly, state authoritatively, establish or formulate
@@ -81401,6 +82017,7 @@ Stand up against
 stand up against
 stand up against him
 stand up for
+stand up for
 Stand up for
 Stand up for
 stand up for
@@ -81510,6 +82127,7 @@ standing to attention
 standing to attention 
 standing uncomfortably close
 standing uncomfortably close
+standing up for
 Standing up for
 standing up for 
 standing up for his
@@ -81779,6 +82397,7 @@ stay out
 stay out of
 stay out of the race
 stay out of the race 
+stay put
 Stay put
 stay put
 stay put
@@ -81861,6 +82480,7 @@ stayed awake
 stayed away from
 stayed out
 stayed put
+stayed put
 stayed silent 
 stayed stable 
 stayed stationary
@@ -81875,6 +82495,7 @@ staying on The side
 staying on the subject 
 staying out
 staying outside
+staying put
 staying put
 staying stationary
 staying the night
@@ -81939,6 +82560,7 @@ steaming sex
 steaming soup
 steaming soup
 steaming soup 
+steaming stuff
 steamy jungle
 steamy sex
 steamy sex scenes 
@@ -82027,6 +82649,7 @@ step up security
 step up security
 step up security
 step up the pace
+step up the pace
 step up the search
 step up the search
 step up the speed
@@ -82047,7 +82670,10 @@ stepped out
 stepped out
 stepped out of
 stepped out of line
+stepped up
 stepped up security 
+stepped up the pace
+stepping back in time
 stepping down from office 
 stepping into The spotlight
 stepping on The scene
@@ -82180,6 +82806,7 @@ still and silent
 still and silent 
 still from film
 still in hospital
+still in place
 still no closer to
 still not good enough
 still remains to be seen
@@ -82292,6 +82919,7 @@ stone's with style
 stony broke
 stony broke
 stony broke
+stony ground
 Stony-hearted
 stood alone
 Stood aside
@@ -82323,6 +82951,7 @@ stood to attention
 stood to attention
 stood to attention
 Stood to his guns
+stood up for
 stood up for
 Stood up for
 Stood up for
@@ -82532,6 +83161,7 @@ Straight St
 Straight stalks
 straight to table
 straight-haired
+straightaway
 Straightaway
 Straighten Out
 Strain at a Gnat and Swallow a Camel
@@ -83212,6 +83842,7 @@ such as
 such as
 such as
 such as
+such as
 such as a
 such as a
 such as a bank
@@ -83445,6 +84076,7 @@ Summary proceedings a trial by magistrates
 Summary trial a trial by magistrates
 summed up
 summed up
+summer holiday
 Summer in The C
 Summer is here soon
 summer of celebration
@@ -83625,8 +84257,10 @@ Sure to
 Sure to appear
 Sure-Fire
 Sure, I'd love to
+Sure, that’s one way of looking at it
 Surely enough
 Surely right
+surely so
 Surely so
 Surety someone who takes responsibility for someone else's
 Surf and turf
@@ -83669,6 +84303,7 @@ surprising find
 surprising finding seven has double assonance
 surprising findings
 surprising findings 
+surprisingly
 Surprisingly good
 surprisingly spacious
 surprisingly well
@@ -84308,6 +84943,7 @@ Take an old man’s counsel and an experienced man’s knowledge
 Take an opportunity
 take an umbrella with you
 Take animals for instance especially when used as a figure of speech We often hear of The cat flap
+take apart
 Take Apart
 Take apart
 Take aside
@@ -84756,6 +85392,7 @@ Take up
 Take Up On
 take up place
 take up position
+take up position
 Take up space
 Take up with
 take up your position
@@ -84908,6 +85545,7 @@ taking from Peter to pay Paul
 taking good care of
 taking good care of
 taking great care
+taking heed
 taking him at his word 
 taking his name in vain
 Taking His name in vain
@@ -84965,6 +85603,7 @@ taking to the tracks
 taking to The trenches
 taking to the trenches 
 Taking up
+taking up position
 taking us by surprise
 taking with a no response
 tale of terror
@@ -85345,6 +85984,7 @@ Teenage Tommies
 teenage Tommies
 Teenagers are young people between and
 teeny-weeny
+teething problems
 TELEPHONE box
 Telephone kiosk	
 Telephone someone later
@@ -85903,6 +86543,7 @@ that is so
 that is the case
 that is the case
 that is to say
+that is to say
 That is to say
 that is to say
 that is to say that
@@ -85946,6 +86587,7 @@ that my life s mission is to
 that my nation is supreme
 that my nation is unique
 That petrol gauge doesn’t work
+that pretty much wraps it up
 that produce enormous amounts of
 That really didn’t live up to expectations, did it
 that reminds me
@@ -85961,6 +86603,7 @@ That ship has sailed
 That Ship Has Sailed
 That ship has sailed
 That ship has sailed
+that should be enough
 That should be fun
 that so many as are coupled together otherwise than Gods Word doth allow are not joined together by God
 that sort of attitude
@@ -86136,6 +86779,8 @@ That’s a good deal
 That’s a good idea
 That’s a good idea
 That’s a good point
+That’s a good point
+That’s a good point
 That’s a good question but
 That’s a large scale indeed
 That’s a nice change
@@ -86147,6 +86792,7 @@ that’s all right
 that’s all right
 That’s an easy answer
 That’s another eighty
+That’s different
 that’s exactly my own view
 That’s fine by me
 That’s for me
@@ -86155,19 +86801,26 @@ that’s for sure
 That’s great
 That’s him over there, the grey one
 That’s it I’ve got it
+That’s just what I was thinking
 that’s more like it
 That’s nearly it
 That’s nice of you, Sheila
 That’s no reason for
 That’s no way to
+That’s not always true
+That’s not entirely true
 That’s not how I see it
+That’s not the same thing at all
 That’s not the way I see it
+That’s one way of looking at it, however
 That’s only three thousand, five hundred pounds
+That’s out of question
 that’s perfectly true
 That’s pounds altogether
 that’s precisely the point
 That’s quite reasonable
 That’s so kind of you
+That’s so true
 That’s so true
 That’s terrible
 that’s the end
@@ -86175,8 +86828,10 @@ That’s the first sensible thing you’ve said today
 That’s the lever there
 That’s the main thing
 that’s to say
+That’s true
 That’s very kind of you
 That’s very kind of you, Bob
+That’s very true
 that’s your problem
 thatched with bracken
 Thaw out
@@ -86509,6 +87164,7 @@ the begging bowl
 the begging bowl 
 The beginning is the half of every action
 the beginning of the end
+the beginning of the story
 The beginning of words
 The beginning, middle and end of the birth, growth and perfection
 the beginnings
@@ -86521,6 +87177,7 @@ The belle of the ball
 the belle of the ball
 the bend in the banisters
 the benefit of
+the benefit of the doubt
 the benefit of the doubt 
 the benefits test
 the bequest
@@ -87864,6 +88521,7 @@ the end of the
 the end of the
 the end of the first
 the end of the first week
+the end of the line
 the end of the stick
 the end of the tunnel
 the end of the war
@@ -87896,6 +88554,7 @@ The entrance is located at the rear
 the epidemic of fake news
 the equation
 the equivalent of
+the equivalent of 
 the establishment of the
 the establishment of the state
 the establishment of the state
@@ -88306,6 +88965,7 @@ the full extent of
 the full facts
 the full facts
 the full facts
+the full form 
 The full Monty
 the full Monty
 the full Monty
@@ -88523,7 +89183,9 @@ The Groovy Greeks
 the grouch and The gamine
 the grouch and the gamine
 the grouch and the gamine 
+the ground around
 the ground in front of us
+the ground under my feet
 the ground under my feet
 The group has a separate legal identity from the
 the group was split up
@@ -89805,6 +90467,7 @@ the one and only
 the one and only
 The one and only
 the one and only 
+the one and only 
 The one before
 The one in the front seat pressed a gun to her chest
 the one that gave me
@@ -89896,6 +90559,7 @@ The ox has one thought, the ploughman another
 The Oxford Dictionary of Collocations 
 the pace of change
 the pace of change
+the pace of life
 the pace of life
 the pace of the march 
 the padding
@@ -90041,6 +90705,7 @@ the permissive society
 the permissive society 
 The perpetrator of false alarm has a hidden motive for causing harm
 the perquisites of power
+the person holding it
 The person in charge
 the person or organisation which owes the money
 The person we were just talking about showed up
@@ -90524,6 +91189,7 @@ the required quality
 the required quality
 the rescue of the crew
 the research does not take into account pre-existing such as
+The research seems to suggest
 The research to date has tended to focus on rather than
 The research would have been more relevant if 
 The reserve cannot be paid out
@@ -91029,6 +91695,7 @@ The slave of desire set in his ways is locked in a rut for the rest of his days
 the slightest problem
 the Slimy Stuarts
 The slogan refers to 
+The slogan was matched 
 the slope of the ridge 
 the slopes of Switzerland
 the slum streets of the city
@@ -91159,6 +91826,7 @@ the spring sale
 the spring season
 the spring sun
 the spud run
+the spur of the moment
 the Spy in the Sky
 the squadron leader
 the squeaky wheel
@@ -91334,6 +92002,7 @@ the surface of the sea
 the surface of the sea
 the surface of the sea
 the surface of the sea
+the survival of the fittest
 the survival of the fittest
 The Swan and Duck
 The Swan and Duck
@@ -91544,8 +92213,10 @@ the tipping point
 the tipping point
 The Tired Bike
 The Titanic sank on its maiden voyage
-the title
 The title of
+the title of a
+the title of a book
+the title of the
 the title track
 The toast of the town
 the tone in which it was conveyed
@@ -91822,6 +92493,7 @@ the way forward
 The way forward
 The way forward
 the way forward
+The way I see it
 The way I see it 
 the way in
 the way it's made
@@ -92190,8 +92862,10 @@ Theme for dream
 themselves included
 themselves to themselves
 themselves to themselves
+then again
 Then again
 then again
+then and now
 then as suddenly as it had
 Then do The same for this song
 then i made up
@@ -92214,10 +92888,12 @@ Then There are cases like
 then there is
 Then there were none
 then tragedy struck
+then we shall 
 then we will fight in the shade
 then we wouldn't have to
 Then when
 Then your back
+then, suddenly 
 then, the rest of his life would be bearable
 Theodore Roosevelt,
 theological training
@@ -92434,6 +93110,7 @@ There is no smoke without fire
 There is no smoke without fire
 There is no sport in hurting me; it is so easy
 there is no such
+there is no such thing 
 There is no such thing as a free lunch
 There is no such thing as a free lunch
 There is no such thing as an instant success
@@ -92443,6 +93120,7 @@ There is no tea left
 There is no time like the present
 There is no time like the present
 There is no time; there is only motion
+There is no way I could agree with that
 there is no will
 There is no wisdom in useless and hopeless sorrow
 there is not enough money to pay them in full
@@ -92613,6 +93291,7 @@ There’s an accident up the road
 There’s more to life than just living
 There’s no action in this film
 there’s no doubt about it
+There’s no doubt in my mind that
 There’s no easy way to
 There’s no explaining
 There’s no fool like an old fool
@@ -92638,10 +93317,12 @@ There’s petrol everywhere
 There’s Sheila and her brother, Michael
 there’s so little competition
 There’s sometimes time for a quick change between cause and effect
+therefore I would like
 therefore or so
 Therefore, it must be said
 Theresa May's muses 
 Theresa muses
+thereupon
 These absorptions, reached by the path of serenity meditation, as exalted as they are still doubts
 these alliterative combinations like
 These analytical procedures and the results obtained from them 
@@ -92800,6 +93481,7 @@ They really enjoyed Themselves
 they recommend things like vegetables and meat
 they say I might
 they say I might as
+They say that
 they say that
 They say that
 they say that
@@ -93463,6 +94145,7 @@ Though justice moves slowly, it seldom fails to overtake the wicked
 though no fault of
 Though nonetheless
 though not always
+though not before
 Though not before
 though NOT before
 though not before
@@ -93642,6 +94325,7 @@ through the ages
 Through the air
 through the fog
 Through the Grapevine
+through the intervention of
 through The intervention of
 through the intervention of
 Through the looking glass
@@ -93910,6 +94594,7 @@ tightly typed
 tightly typed
 tightly typed
 Tijuana Bible
+till now
 till the bitter end
 Till the Cows Come Home
 Till the cows come home
@@ -93919,6 +94604,7 @@ till the cows come home
 till the end
 till the end
 till the end of my day
+till the end of never
 till the end of the earth
 till the end of time
 till the end of time
@@ -94016,6 +94702,8 @@ Time is of the essence
 Time is of the essence
 time is of the essence
 Time is of the essence but water is more essential
+time is on my hands
+time is on our hands
 time is on our hands
 Time is running out
 Time is running out
@@ -94314,6 +95002,7 @@ to assume as true for the purposes of making a decision, taking an action,
 to attack from
 to attempt the impossible
 to attempt to compel a person to do something
+to attend a meeting
 to attend to
 to attest to the character of someone
 to attract our attention 
@@ -94434,6 +95123,7 @@ To be quite honest I haven’t got a clue
 to be reckoned with
 to be reckoned with
 to be reckoned with
+to be recognised 
 to be reduced in temperature
 to be regarded as coincidental
 to be released
@@ -94448,7 +95138,9 @@ to be seen
 to be seen in
 To be Smitten With Someone
 To be someone's One and Only
+to be sure
 To be sure
+to be sure
 to be sure of
 to be sure of
 to be sure of
@@ -94502,6 +95194,7 @@ to begin playing with a group
 To begin to have control of or responsibility for something
 to begin to understand
 to begin to understand
+to begin with
 To begin with
 to begin with
 to behave in a particular way 
@@ -94569,6 +95262,7 @@ to check for
 To choose from
 to choose from
 to church
+to clarify my point
 to coin a phrase
 to collapse into
 to come around to
@@ -94651,6 +95345,7 @@ to decide, arrange, or agree on
 To decrease speed
 to defraud or mislead someone
 to demand a remedy
+to demonstrate what
 to depart from
 to derive pleasure from
 To destroy can be the thoughtless act of a single day
@@ -94719,12 +95414,14 @@ to embark upon
 to emerge in a certain condition
 to emigrate to Germany than
 To emphasise just how black something is, such as someone’s hair, we can call it 
+to emphasize the
 to encounter someone
 to end a case by agreement
 To end discrimination
 To end up
 to endure the pain
 to enjoy very much
+to enumerate the points
 To err is human
 To err is human
 To err is human, to forgive divine
@@ -94742,6 +95439,7 @@ to exit from
 to exp diversify my
 to experience
 to explain the existence of 
+to explain what 
 to expose a secret
 to expose a secret
 to extend beyond
@@ -95015,7 +95713,7 @@ To make matters worse
 To make matters worse
 to make matters worse
 to make me feel
-to make more comfort or relaxed with a person whom you have not met earlier, to
+to make more comfort or relaxed with 
 to make muddled or confused
 To make new and important discoveries
 to make one’s thoughts known
@@ -95040,6 +95738,7 @@ to make them feel
 to make us feel
 to manage the
 to mark books from a library
+to mark the occasion 
 to me
 to me
 to me
@@ -95124,6 +95823,7 @@ to plead guilty or not guilty
 to please me
 to please somebody
 To plough the sand
+to point out
 to point out an error or untruth
 to point upwards
 to pooh-pooh
@@ -95170,8 +95870,10 @@ to put forth all possible effort or resources
 to put in an
 to put in an attack
 to put in an attack on
+to put it another way
 To put it another way
 To put it another way, you're suggesting
+to put it differently
 to put it mildly
 to put it mildly
 to put it mildly
@@ -95186,6 +95888,7 @@ to questions i was asked
 to questions i was asked by
 To rain on someone’s parade
 to raise money 
+to reach a decision
 to reach again to the starting point
 To reach the lowest level before starting to improve again
 to realize the truth
@@ -95219,6 +95922,7 @@ to repay a
 to repay a debt
 to repay it
 to repay lenders
+to repeat what I said
 to replace material that is absent or has been removed
 to report to the royal
 to report to the royal army
@@ -95266,6 +95970,7 @@ to save money
 To save one's bacon
 to save time or money
 to say goodbye
+to say nothing of
 to say nothing of
 To say something that is not true as a way of joking
 to say thank you
@@ -95316,6 +96021,7 @@ to sob or weep
 to socialize with
 to solitary confinement
 to solve the problem
+to some degree
 To some degree
 to some extent
 to some extent
@@ -95367,9 +96073,11 @@ to suffer a mental break down
 to suffer from
 to sum up
 to sum up
+to sum up
 to sum up our agreement
 to summarise everything 
 to summarise our discussion
+to summarize 
 to summarize we can say
 to summon into service
 to summon The servants
@@ -95472,6 +96180,7 @@ to the effect of
 To the effect of
 to the effect of 
 to the end of the world
+to the end that
 to the enemy but by god
 to the exclusion of
 to the exclusion of
@@ -95500,6 +96209,7 @@ to The hills
 to the hilt
 to the income their land generates
 to the late evening
+to the left
 to the left
 to the left
 to the left of
@@ -95714,6 +96424,7 @@ Toe-curling
 toeing the line
 Toffee-nosed
 together with
+together with
 together with the will and the death certificate
 toil and tears
 toil and tears
@@ -95823,6 +96534,7 @@ too good a
 Too good for 
 Too good for my liking
 too good for others
+too good to be true
 too good to be true
 too good to be true
 Too good to be true
@@ -95962,6 +96674,7 @@ too true
 too true
 too true
 too true
+too true
 too true 
 too young to
 too young to
@@ -96045,6 +96758,7 @@ took time off
 took time to
 took to the air
 took up position
+took up position
 took us by surprise
 tools and techniques
 tools and techniques
@@ -96120,6 +96834,7 @@ torn off
 torn trousers
 torpor or sloth, knows when there is restlessness and mental worry, and knows when
 torrent of rhetoric
+torrential rain
 torrential rain
 torrential rain
 torrential rain
@@ -96824,8 +97539,10 @@ true to its
 true to the original
 true to their word
 true to tradition
+true to tradition
 truly grateful
 Truly happy
+truly so
 truly terrific
 truly terrific
 truly terrific
@@ -97022,6 +97739,7 @@ Trying to keep up with the heart will slow you down
 Trying to Light The Fire
 trying to lose weight
 trying to obtain
+trying to pick
 Trying to possess that which defies ownership is the cause of grief
 trying to prove
 trying to prove oneself better than The rest
@@ -97509,6 +98227,7 @@ UK this is a person under 18 years old
 Ulterior motive
 Ulterior motive
 ultimate conclusion 
+Ultimately so
 ultimately so
 Ultimately, the only one who knows how well you do will be you
 Ultra vires beyond one's powers
@@ -97518,6 +98237,8 @@ ultra-orthodox women bring home the
 umbilical cord
 umbilical cord 
 umbrella's meant to get wet
+Umm, I’m not sure about that
+Umm, well not really
 UMNO
 Una Grande y Libre
 Unable or unwilling choose or make a decision
@@ -97661,9 +98382,11 @@ Under lock and key
 under lock and key
 under lock and key
 under lock and key
+under my feet
 Under no circumstances
 under no circumstances
 under no circumstances
+Under no conditions
 under oath
 under oath
 under oath
@@ -97782,6 +98505,7 @@ Under the weather
 Under the weather
 under the weather
 under these circumstances
+under those circumstances
 under treatment
 under treatment
 under treatment
@@ -97881,6 +98605,7 @@ Uninterested in
 Unionist Party during 
 unique feature
 unique to
+uniquely so
 Unit of people or a group of things 
 Unit trust a trust which manages investments
 United by
@@ -97916,9 +98641,11 @@ Unless I’m mistaken
 unless some negative expressions as in fortunately
 unless the capital asset is one exempted by law
 unless the tenancy agreement allows it
+unless you 
 Unless you eat your heart in sorrow, you cannot taste your life
 Unless you’ve all the facts, you can’t make proper judgements about
 unlike a sentence
+unlike any other
 Unlike He has argued
 unlike in the past
 unlikely alliance
@@ -98026,6 +98753,7 @@ Until hell freezes over
 until it's over
 until its dying day
 until my dying day
+until now
 until one meets one's maker
 until one's dying day
 until recently
@@ -98037,6 +98765,7 @@ Until the Cows Come Home
 until the cows come home
 until the cows come home
 until the debt has been
+until the end 
 until the end of the day
 until the next day
 UNTIL then
@@ -98196,6 +98925,7 @@ Up to a certain amount
 up to a point
 up to a point
 up to date
+up to here
 up to his ears
 up to his ears in trouble
 up to his ears in trouble
@@ -98226,6 +98956,7 @@ up to the
 up to the brink
 up to the forward area
 Up to the neck
+up to the present time
 up to then
 up until
 up with the lark
@@ -98294,9 +99025,11 @@ urgent work
 Urgent work 
 us and them
 us and them
+us and them
 us if you want to reproduce any part of it
 us national highway traffic safety
 us national highway traffic safety administration
+us or them
 us or them
 us or them
 us with the biggest challenges
@@ -98486,7 +99219,9 @@ usually on time
 usually right
 usually sent by the landlord to the tenant although
 usually so
+usually so
 usually the amount paid for the asset less an amount
+usually the case
 Usually the case
 usually the case
 usually to a bank
@@ -98547,6 +99282,7 @@ Vague idea
 Vague memory
 Vague memory
 Vague papers
+vague remark
 vaguely familiar
 vain attempt
 vain attempt
@@ -98934,6 +99670,7 @@ volunteered to
 Volunteering makes a difference
 volunteering to
 volunteers to
+voluptuous bosom
 Vomited on
 vomiting violently
 Vörösmarty Mihály was a great Hungarian poet Vörösmarty was his surname
@@ -98996,6 +99733,7 @@ Wagons' circle
 Wailing Wall 
 waist on
 waisted on
+Wait a minute
 Wait a moment
 Wait a moment
 Wait a moment usually imperative
@@ -99757,6 +100495,7 @@ way back in
 way back in
 way back in
 way back in
+way back in
 Way back in the 
 way beyond
 way beyond
@@ -99863,6 +100602,8 @@ We don't want to
 We don't want to start a fire
 We don’t know if the play will be a success
 We don’t see things as they are; we see things as we are
+We don’t seem to agree here
+We don’t seem to be in complete agreement
 We don’t seem to be making much progress on this
 We don’t want
 We dragged all our baggage to Greece
@@ -99975,6 +100716,7 @@ we may point to The same sort of sound repetition in both The positive and negat
 We mean no harm
 we met with
 we might end up with
+we must accept
 We must away ere break of day
 We must away We must away
 We must both work tomorrow, mustn’t we
@@ -100384,6 +101126,7 @@ well begun is half won
 well begun is half won
 well begun is half won Some with reduplication
 Well begun is half-done
+well beyond
 Well blow me down
 well catered for
 well defined features
@@ -100466,10 +101209,15 @@ Well, frankly, the event turned out to be a damp squib
 Well, have you decided anything yet
 Well, he kicked that poor chap
 Well, he’s in hospital, isn’t he
+Well, I agree with you here
+Well, I don’t quite agree with you
 Well, I don’t really know, but here’s my hypothesis
 Well, I haven’t had time
+Well, I see things rather differently
 Well, I'm not sure of that because
+Well, if that is the case
 well, if you say 
+Well, it is considered that
 Well, it's getting late 
 Well, it’s a lovely evening, isn’t it
 Well, let's stop this conversation now
@@ -100477,6 +101225,7 @@ Well, not mine really
 Well, open the doors for goodness’ shake, Arthur
 Well, personally, I think it’s very nice
 Well, ring it Ring the bell
+Well, that reminds me that
 Well, that’s out of question then
 Well, what's the time
 Well, why did you come, then
@@ -100492,6 +101241,7 @@ wend your way
 wending his way
 went as planned
 went as planned
+went astray
 went away
 went AWOL
 went back to the drawing board
@@ -100682,14 +101432,19 @@ What a beautiful
 What a beautiful picture
 What a bore
 What a boring film
+what a change
+what a difference
 what a difference a day makes
 what a difference a day makes
 what a difference a day makes 
 What a disaster
 What a dull performance
+what a gain
 What a good idea
 What a let-down
 What a let-down
+what a life
+what a life
 what a life
 What a man is ready to recall
 What a nice apartment 
@@ -100702,13 +101457,17 @@ What a pity
 What a pity 
 What a pity to
 What a relief 
+what a shame
 What a shame
 what a shame
 What a shame 
 what a shitshow
 what a shitshow 
 What a shock
+what a shock 
 What a shoe can do
+what a success
+what a surprise
 What a waste
 What a waste 
 what a way to 
@@ -100734,7 +101493,10 @@ What about some wine, then
 What about this one instead
 What an experience
 What appeared to 
+what appeared to be
 What appeared to be
+what appears to 
+what appears to be
 What are the major crops of this country
 What are the terms of the contract
 What are they doing now
@@ -100753,6 +101515,8 @@ What are you thinking about now
 what are you waiting for
 what are you waiting for
 What are you waiting for
+What are your thoughts on
+What are your views on
 What are your views on 
 what bothers
 what bothers me
@@ -100847,14 +101611,17 @@ What do you suggest
 What do you suggest
 What do you take photos with
 What do you think
+What do you think
 what do you think
 what do you think
 What do you think 
+What do you think about
 What do you think about 
 What do you think about this
 What do you think I should do
 What do you think I should do
 What do you think makes a quality product
+What do you think of
 what do you think of
 what do you think of it
 What do you think of that one
@@ -100951,14 +101718,17 @@ what I can't understand
 what I had in mind
 What I have I no longer want, and what I want I can no longer have
 What I have learned is but a handful of earth to the earth itself
+What I mean is
 what I mean is
 what I mean is
+What I mean to say
 what I need is
 what I remember
 what I'm saying but
 what I'm saying is
 what I've just
 what I've just said
+What I’ve found is
 what if
 What if
 what if
@@ -101169,6 +101939,7 @@ What the eye does not see, the heart does not grieve over
 What the eye does not see, the heart does not grieve over
 What the heart thinks the tongue speaks
 What the heart thinks, the tongue speaks
+what the heck
 What the heck
 What the hell are you doing here
 what the morrow held in store
@@ -101400,6 +102171,10 @@ what’s up
 what’s up with
 What’s your address
 What’s your name
+What’s your opinion
+What’s your opinion of
+What’s your opinion on
+What’s your view
 Whatever advice you give be brief
 Whatever begins in anger ends in shame
 Whatever bothers you
@@ -101420,6 +102195,7 @@ whatever next
 whatever next
 Whatever next
 whatever people may
+Whatever seems best
 whatever she may
 whatever springs to mind
 whatever springs to mind
@@ -101574,8 +102350,10 @@ when I'm old and grey
 when I'm talking to you
 when I’m old and grey
 when in danger
+when in danger
 when in doubt
 When In Doubt, Leave It Out
+when in Rome
 when in Rome
 When in Rome,
 When in Rome, Do as the Romans Do
@@ -101859,9 +102637,13 @@ When your love for yourself is stronger than you feel for others, you’ll harm
 Whenever EFL learners confront a native speaker with The use of one or The other collocation
 whenever necessary
 whenever possible
+whenever possible
+whenever seems possible
 whenever you
 whenever you like
 whenever you like
+whenever you like
+whenever you want
 whenever you're ready
 where a child should live
 Where a man’s intentions are published, it is an alarum to call up all
@@ -101962,6 +102744,7 @@ where to work who to
 where voiced meets voiceless initial consonant
 where voiceless consonant is followed by voiced consonant or vice versa a Geiger counter
 where was I
+where were 
 Where were you
 where were you
 where will it all end
@@ -101983,6 +102766,7 @@ Where’s the brush
 Where’s the car It’s gone
 Where’s the nearest toilet Quickly
 Where’s your money
+whereas before
 Whereas otherwise
 Whereas refers to the operations of refers to the
 Whereas refers to the operations of refers to the
@@ -101990,6 +102774,8 @@ Whereas the law is passionless, passion must never sway the heart
 Wherever law ends tyranny begins
 wherever necessary
 wherever possible
+wherever possible
+wherever seems possible
 Wherever they burn books, … they also burn people
 wherever you 
 Wherever you go your pain will follow you
@@ -102007,6 +102793,7 @@ whether or not
 whether or not
 whether the weather
 whether they will plead
+whether this is true
 whether to do something
 whether we are dealing with rhyme or with rhythm The two boil down to The repetition of either a sound pattern
 whether we like it or not
@@ -102033,6 +102820,7 @@ which cannot be discussed outside the court
 which cause discontent
 Which church does she go to
 which come within the sheriff's jurisdiction are largely
+which comes down
 which comes in all sorts of auditive and rhythmic combinations
 which comes with a handy workbook
 which controls the ruling coalition Barisan Nasional which has been in control of Malaysia since independence in
@@ -102040,6 +102828,7 @@ which demands that no dealings in the land are
 which do not
 which does do harm
 which doesn’t mean
+which entails
 which focuses on The cuteness
 which gave me the opportunity
 which gave me the opportunity to
@@ -102125,12 +102914,14 @@ which way your bread's buttered
 which will pay the
 Which witch is which
 which would cause a reasonable person to
+which would mean
 whichever way
 whichever you like
 whiff of suspicion
 While a variety of definitions of the term have been suggested, this paper will use the definition first suggested by who saw it as
 While a variety of definitions of the term have been suggested, this paper will use the definition first suggested by who saw it as
 while asleep
+while at the same time
 while at the same time
 While away
 while away
@@ -102168,6 +102959,7 @@ while The sun shines
 while The world is watching
 while there
 while there
+while there
 While there is life there is hope
 While there is life there is hope
 while they are not there
@@ -102176,6 +102968,7 @@ while thunder rumbled in the distance
 while thunder rumbled in the distance
 while transport
 while truck is
+while we are at it
 while we can
 while we can
 while we hear of
@@ -102185,6 +102978,7 @@ while we still can
 while we still can
 while we were
 while we were
+while we’re at it
 while we’re away
 while you can
 while you can
@@ -102550,6 +103344,7 @@ wild excitement
 wild goose chase
 Wild goose chase
 wild goose chase
+wild horses
 Wild horses 
 Wild men who caught and sang
 wild walking
@@ -102848,6 +103643,7 @@ wisdom of the ages
 wisdom of the ages
 Wisdom sets bounds even to knowledge
 wise as an owl
+wise decision
 Wise men try to express their appreciation and gratitude by some
 wise woman
 wise words Watery whey
@@ -102923,6 +103719,7 @@ with a heavy heart
 with a heavy heart
 with a heavy heart 
 with A hopeful heart
+with a little help from
 with a little help from my friends
 With a little luck
 with a lot of energy
@@ -102982,6 +103779,7 @@ with an iron fist
 with ancestral connections
 with any luck
 with assonance
+with attention to
 with bated breath 
 With Bells On
 With bells on
@@ -103085,6 +103883,7 @@ With great responsibility comes great power
 with gushing abundance
 with gushing abundance 
 with hatred
+with help from
 with her back to me
 with her in mind
 with her jumped up air and her lying e
@@ -103156,6 +103955,7 @@ with Nazi Germany
 with near-assonance
 with necessary plurals
 with needle and thread
+with neither
 with no concern for
 with no concern for
 with no details or explanation 
@@ -103332,7 +104132,10 @@ With the strong wind and snow
 with the times
 with the title in sight
 with the world at war
+with this in mind
+with this in mind
 With this in mind
+with this intention
 with threats or weapons
 with threats or weapons 
 with time and talent
@@ -103492,6 +104295,7 @@ without a doubt
 without a hitch
 without a hitch
 without a hitch
+without a hitch
 without a penny in his pocket
 Without a rich heart, wealth is an ugly beggar
 without a shadow of a doubt
@@ -103546,10 +104350,12 @@ without delay
 without delay
 without delay
 without delay
+without delay
 without doubt
 without doubt 
 without due attention
 Without due care or attention
+without either
 without error of memory
 without exception
 without exception
@@ -103577,6 +104383,7 @@ without further notice
 without giving a thought to
 without giving a thought to 
 without giving attention
+without good reason
 without hesitating
 without hesitation
 without his knowledge
@@ -103859,6 +104666,7 @@ Words are the physicians of a mind diseased
 Words can hurt
 Words ending in
 Words ending in gry
+words fail me
 words fail me
 words fail me
 words like awfully
@@ -104179,6 +104987,8 @@ Would it be a good idea to
 would it be fair to say
 Would it be possible for you to
 Would it be possible for you to
+Would it make a difference
+Would it make any difference
 would kill for Their case
 would like to
 would love to
@@ -104514,6 +105324,7 @@ yappy as a dog
 yards apart 
 yay or nay
 ye do now confess it For be ye well assured
+Yeah, but
 Yeah, right 
 year after year
 year after year
@@ -104571,8 +105382,10 @@ Yes you can
 Yes, all right then
 Yes, Bruce has some money tonight
 Yes, but 
+Yes, but don’t you think
 Yes, go on
 Yes, he’s the favourite
+Yes, I agree
 Yes, I am
 Yes, I am
 Yes, I am but
@@ -104638,7 +105451,9 @@ Yokes' material
 Yorkshire Where there’s muck there’s money
 you agreed to
 You and I
+you and I 
 You and I are good friends
+you and me
 you and me
 You are a bit early, actually
 You are as good as gold
@@ -104895,6 +105710,7 @@ You could have knocked me down with a feather
 you could hear a pin drop
 You could hear Them arguing
 you could never have
+You could say that, however
 you could still get
 You could strangle spiders in the web that you weave
 you couldn't have
@@ -104957,16 +105773,19 @@ You have a beautiful home
 You have a certain amount of freedom to explore new techniques
 You have a good sense of humour
 You have a nice dog
+You have a point there but or
 You have a point there, but
 You have a very futuristic lamp
 You have all my sympathy
 you have had
 you have just been talking about
 You have many molecules in your body
+You have my full agreement
 you have no experience of and don know what might happen
 you have no idea
 You have no idea what a relief it is 
 you have no priority
+you have not met earlier 
 you have nothing to fear
 You have the power
 you have the right to
@@ -105168,6 +105987,7 @@ you tell me
 you the world of the
 you the world of the mid
 you too 
+You took the words right out of my mouth
 You took your life as lovers often do
 you took your time
 you took your time
@@ -105310,6 +106130,8 @@ You’ll get what you deserve in the end
 You’ll have to apologize
 You’ll see soon enough
 You’re a bit too clever for your own good
+you’re absolutely right
+You’re absolutely right
 You’re almost there
 You’re awesome and I know it
 you’re being
@@ -105329,6 +106151,7 @@ You’re not perfect
 you’re on
 you’re on! 
 you’re only as
+You’re right, that’s a good point
 you’re telling me
 You’re telling me
 You’re very sorry Why
@@ -105340,6 +106163,7 @@ You’ve been so kind
 You’ve been very helpful
 You’ve got a bargain there, sir
 you’ve got to
+You’ve got to be kidding
 you’ve got to do 
 You’ve got to learn to walk before you can run
 You’ve got to play the hand that you are dealt
