@@ -41,8 +41,7 @@ with open('lib.js', 'w') as lib:
     chunks_db.sort(reverse=True, key=lambda chunk: len(chunk))
     js = """
     function chunksDB() {
-        let chunks = """ + str(chunks_db) + """;
-        return chunks;
+        return """ + str(chunks_db) + """;
     }
     """
     lib.write(js)
