@@ -1,7 +1,19 @@
+from nltk import pos_tag, word_tokenize
+from whoosh.lang import morph_en
+
+
+chunks_db = []
+chunks_len = 0
+with open('chunks.txt', 'r') as chunks:
+    for line in chunks:
+        chunks_len += 1
+
 with open('lib.js', 'w') as lib:
     with open('chunks.txt', 'r') as chunks:
-        chunks_db = []
-        for chunk in chunks:
+        for index, chunk in enumerate(chunks):
+            if str(index)[-3:] == "000":
+                print(f"Processing {index} of {chunks_len}")
+
             chunk = chunk.lower()
             chunk = chunk.strip()
             chars = '!"#$%&()*+,-/.:;<=>?@[\\]^_`{|}~'
@@ -12,11 +24,21 @@ with open('lib.js', 'w') as lib:
             chunk = " " + chunk + " "
             if chunk not in chunks_db:
                 chunks_db.append(chunk)
-    # reverse sort to find longer chunks first
+            # variations of certain forms
+            # codes = Penn-Treebank tagset
+            chunk = chunk.strip()
+            tokens = pos_tag(word_tokenize(chunk))
+            for token in tokens:
+                word, tag = token
+                if tag in ["VB", "VV"]:
+                    for variation in morph_en.variations(word):
+                        newchunk = chunk.replace(word, variation)
+                        newchunk = " " + newchunk + " "
+                        if newchunk not in chunks_db:
+                            chunks_db.append(newchunk)
 
-    def mySort(e):
-        return len(e)
-    chunks_db.sort(reverse=True, key=mySort)
+    # reverse sort to find longer chunks first
+    chunks_db.sort(reverse=True, key=lambda chunk: len(chunk))
     js = """
     function chunksDB() {
         let chunks = """ + str(chunks_db) + """;
